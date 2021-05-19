@@ -1146,10 +1146,10 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Emote_Sad_Long"
+            "Play__Robot_Vic_Sfx__Distress_Alert"
           ],
           "eventIds": [
-            3168489024
+            1531247580
           ],
           "volumes": [
             1.0
@@ -1196,7 +1196,7 @@
           ]
         }
       ],
-      "triggerTime_ms": 1485,
+      "triggerTime_ms": 1452,
       "Name": "RobotAudioKeyFrame"
     },
     {

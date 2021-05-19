@@ -1581,37 +1581,17 @@
             1.0
           ],
           "audioName": [
-            "Stop__Robot_Vic_Sfx__Head_Mood"
+            "Play__Robot_Vic_Sfx__Emote_Sad_Short"
           ],
           "eventIds": [
-            3271727348
+            3300673888
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 0,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Sad"
-          ],
-          "eventIds": [
-            2699760977
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
-      ],
-      "triggerTime_ms": 660,
+      "triggerTime_ms": 33,
       "Name": "RobotAudioKeyFrame"
     },
     {

@@ -224,6 +224,71 @@
         0.0,
         0
       ],
+      "triggerTime_ms": 0
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.0,
+      "leftEye": [
+        8.107326060759803,
+        0.0,
+        1.5174507300664741,
+        1.1453089027930028,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        1.5174507300664741,
+        1.144941064931666,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
       "triggerTime_ms": 231
     },
     {
@@ -1821,7 +1886,7 @@
       "faceAngle": 0.0,
       "durationTime_ms": 0,
       "faceCenterY": 17.240214126588683,
-      "faceCenterX": -0.5338959706102884,
+      "faceCenterX": -0.649273022253098,
       "rightEye": [
         -7.315991464547729,
         0.0,
@@ -2438,7 +2503,7 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.4439844995526225,
+      "faceScaleY": 0.22214899447222833,
       "scanlineOpacity": 1.0,
       "faceScaleX": 1.0817143280314911,
       "leftEye": [
@@ -2470,8 +2535,8 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 19.904546952881486,
-      "faceCenterX": -0.00695450030706013,
+      "faceCenterY": 22.779541202288478,
+      "faceCenterX": -0.010049257030118497,
       "rightEye": [
         -7.5480823736386355,
         0.0,
@@ -2568,7 +2633,7 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.8943854730957451,
+      "faceScaleY": 0.9386427901865438,
       "scanlineOpacity": 1.0,
       "faceScaleX": 0.9337171477788018,
       "leftEye": [
@@ -2600,7 +2665,7 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 14.546992593460836,
+      "faceCenterY": 13.53213426827525,
       "faceCenterX": 0.0,
       "rightEye": [
         -8.135627828184084,
@@ -2635,7 +2700,7 @@
       "Name": "ProceduralFaceKeyFrame",
       "faceScaleY": 0.7500681347561857,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 1.008061137563527,
+      "faceScaleX": 0.9845188741316974,
       "leftEye": [
         8.107326060759803,
         0.0,
@@ -2698,7 +2763,7 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.7678391521763303,
+      "faceScaleY": 0.7507789754529917,
       "scanlineOpacity": 1.0,
       "faceScaleX": 1.0328424674917693,
       "leftEye": [
@@ -2730,8 +2795,8 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 17.397498557279462,
-      "faceCenterX": -1.950431283148646e-08,
+      "faceCenterY": 17.83796063259453,
+      "faceCenterX": -2.5745677589839033e-08,
       "rightEye": [
         -7.315991464547729,
         0.0,
@@ -2765,7 +2830,7 @@
       "Name": "ProceduralFaceKeyFrame",
       "faceScaleY": 0.821152204436763,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 0.991781060945958,
+      "faceScaleX": 1.0053313251060756,
       "leftEye": [
         8.107326060759803,
         0.0,
@@ -3250,7 +3315,7 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 22.96588216986128,
+      "faceCenterY": 16.699995277865874,
       "faceCenterX": 6.23103842516603,
       "rightEye": [
         -7.5320897401769145,
@@ -3283,9 +3348,9 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.6740627603625351,
+      "faceScaleY": 0.8452340254313138,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 1.0767381141157746,
+      "faceScaleX": 1.0082112562020082,
       "leftEye": [
         9.409093592021705,
         0.0,
@@ -3380,7 +3445,7 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 27.60464886304571,
+      "faceCenterY": 27.602638469937762,
       "faceCenterX": 0.0008663311273763013,
       "rightEye": [
         -15.668698959284626,
@@ -3510,8 +3575,8 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 13.100683627276268,
-      "faceCenterX": 0.47764043177741006,
+      "faceCenterY": 26.433122319901933,
+      "faceCenterX": 0.8685547860096248,
       "rightEye": [
         -15.41826345269451,
         -0.0005414870058615406,
@@ -3610,7 +3675,7 @@
       "Name": "ProceduralFaceKeyFrame",
       "faceScaleY": 1.0553961737826634,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 0.9513775333206416,
+      "faceScaleX": 0.97169196940639,
       "leftEye": [
         10.08392090459624,
         0.0,
@@ -3673,7 +3738,7 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 1.020654453558232,
+      "faceScaleY": 1.043967968644903,
       "scanlineOpacity": 1.0,
       "faceScaleX": 0.94473661363271,
       "leftEye": [
@@ -3705,8 +3770,8 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": -1.4823753013862329,
-      "faceCenterX": 0.0,
+      "faceCenterY": -1.6392358759442118,
+      "faceCenterX": -0.07771975552499555,
       "rightEye": [
         -9.722273460484324,
         -8.076245585186825e-06,
@@ -3740,7 +3805,7 @@
       "Name": "ProceduralFaceKeyFrame",
       "faceScaleY": 0.9164292928849362,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 1.0071656407811955,
+      "faceScaleX": 0.9792806753215384,
       "leftEye": [
         8.107326060759803,
         0.0,
@@ -3803,7 +3868,7 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.9373219696637023,
+      "faceScaleY": 0.9285888949634874,
       "scanlineOpacity": 1.0,
       "faceScaleX": 1.0279753164973573,
       "leftEye": [
@@ -3835,7 +3900,7 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 1.1244800923933482,
+      "faceCenterY": 1.151443879212664,
       "faceCenterX": 0.0,
       "rightEye": [
         -7.498946010002271,
@@ -3870,7 +3935,7 @@
       "Name": "ProceduralFaceKeyFrame",
       "faceScaleY": 1.0,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 1.0069938291243394,
+      "faceScaleX": 1.0166453133159274,
       "leftEye": [
         8.107326060759803,
         0.0,
@@ -3933,7 +3998,7 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 1.0,
+      "faceScaleY": 0.9918518560562815,
       "scanlineOpacity": 1.0,
       "faceScaleX": 1.0,
       "leftEye": [
@@ -3965,7 +4030,7 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 0.0,
+      "faceCenterY": 0.1461824120111359,
       "faceCenterX": 0.0,
       "rightEye": [
         -7.315991464547729,
@@ -3997,184 +4062,139 @@
       "triggerTime_ms": 4587
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Sad"
-          ],
-          "eventIds": [
-            2699760977
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Sad"
       ],
-      "triggerTime_ms": 297,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        2699760977
+      ],
+      "triggerTime_ms": 297
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Up_Short_Sad"
-          ],
-          "eventIds": [
-            3875852678
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Up_Short_Sad"
       ],
-      "triggerTime_ms": 396,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        3875852678
+      ],
+      "triggerTime_ms": 396
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Lift_High_Up_Short_Sad"
-          ],
-          "eventIds": [
-            1003390754
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Lift_High_Up_Short_Sad"
       ],
-      "triggerTime_ms": 1419,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        1003390754
+      ],
+      "triggerTime_ms": 1419
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__No_Wifi_Icon"
-          ],
-          "eventIds": [
-            3995516895
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__No_Wifi_Icon"
       ],
-      "triggerTime_ms": 1551,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        3995516895
+      ],
+      "triggerTime_ms": 1551
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Charger_Search_Ping"
-          ],
-          "eventIds": [
-            2908727346
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Charger_Search_Ping"
       ],
-      "triggerTime_ms": 1749,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        2908727346
+      ],
+      "triggerTime_ms": 1749
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Emote_Sad_Long"
-          ],
-          "eventIds": [
-            3168489024
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Emote_Sad_Long"
       ],
-      "triggerTime_ms": 2376,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        3168489024
+      ],
+      "triggerTime_ms": 2376
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__No_Wifi_Icon_End"
-          ],
-          "eventIds": [
-            624164417
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__No_Wifi_Icon_End"
       ],
-      "triggerTime_ms": 2739,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        624164417
+      ],
+      "triggerTime_ms": 2739
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Sad_Short"
-          ],
-          "eventIds": [
-            3594885818
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Sad_Short"
       ],
-      "triggerTime_ms": 3630,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        3594885818
+      ],
+      "triggerTime_ms": 3630
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious"
-          ],
-          "eventIds": [
-            2558890771
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Curious"
       ],
-      "triggerTime_ms": 4125,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        2558890771
+      ],
+      "triggerTime_ms": 4125
     },
     {
       "animName": "face_shearchforcharger_canthelp",

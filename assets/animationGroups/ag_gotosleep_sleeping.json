@@ -11,6 +11,24 @@
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
+    },
+    {
+      "Name": "anim_gotosleep_sleeping_03",
+      "Weight": 0.5,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_gotosleep_sleeping_04",
+      "Weight": 0.4,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_gotosleep_sleeping_05",
+      "Weight": 0.2,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
     }
   ]
 }

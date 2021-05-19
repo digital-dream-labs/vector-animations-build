@@ -1,19 +1,19 @@
 {
   "Animations": [
     {
-      "Name": "anim_lookatme_lookinplaceforfaces_keepalive_long",
+      "Name": "anim_movement_lookinplaceforfaces_long",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
     },
     {
-      "Name": "anim_lookatme_lookinplaceforfaces_keepalive_medium",
+      "Name": "anim_movement_lookinplaceforfaces_medium",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
     },
     {
-      "Name": "anim_lookatme_lookinplaceforfaces_keepalive_short",
+      "Name": "anim_movement_lookinplaceforfaces_short",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"

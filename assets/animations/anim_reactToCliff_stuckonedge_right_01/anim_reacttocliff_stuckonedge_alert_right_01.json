@@ -3726,17 +3726,17 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Emote_Sad_Long"
+            "Play__Robot_Vic_Sfx__Distress_Alert"
           ],
           "eventIds": [
-            3168489024
+            1531247580
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 330,
+      "triggerTime_ms": 396,
       "Name": "RobotAudioKeyFrame"
     },
     {
@@ -3797,6 +3797,26 @@
         }
       ],
       "triggerTime_ms": 1782,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Blink"
+          ],
+          "eventIds": [
+            3688286452
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 2640,
       "Name": "RobotAudioKeyFrame"
     },
     {

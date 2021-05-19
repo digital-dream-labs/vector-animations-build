@@ -148,26 +148,6 @@
       "eventGroups": [
         {
           "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Stop__Robot_Vic_Sfx__Head_Mood"
-          ],
-          "eventIds": [
-            3271727348
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
-      ],
-      "triggerTime_ms": 0,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
-      "eventGroups": [
-        {
-          "probabilities": [
             0.5
           ],
           "audioName": [
@@ -181,7 +161,7 @@
           ]
         }
       ],
-      "triggerTime_ms": 627,
+      "triggerTime_ms": 33,
       "Name": "RobotAudioKeyFrame"
     }
   ]

@@ -1155,104 +1155,79 @@
       "triggerTime_ms": 1650
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Up_Short_Curious"
-          ],
-          "eventIds": [
-            1393504716
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Up_Short_Neutral"
       ],
-      "triggerTime_ms": 132,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        83693475
+      ],
+      "triggerTime_ms": 132
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Surprised"
-          ],
-          "eventIds": [
-            1528281890
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Surprised"
       ],
-      "triggerTime_ms": 198,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        1528281890
+      ],
+      "triggerTime_ms": 198
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious_Short"
-          ],
-          "eventIds": [
-            1350709836
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Up_Long_Curious"
       ],
-      "triggerTime_ms": 957,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        485658282
+      ],
+      "triggerTime_ms": 264
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            0.5
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Short_Neutral"
-          ],
-          "eventIds": [
-            4005853328
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Down_Short_Neutral"
       ],
-      "triggerTime_ms": 1485,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        4005853328
+      ],
+      "triggerTime_ms": 1485
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious"
-          ],
-          "eventIds": [
-            2558890771
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Neutral_Short"
       ],
-      "triggerTime_ms": 1518,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        1752486067
+      ],
+      "triggerTime_ms": 1518
     },
     {
       "Right": [

@@ -1303,37 +1303,17 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Long_Sad"
+            "Play__Robot_Vic_Sfx__Emote_Sad_Long"
           ],
           "eventIds": [
-            1984864293
+            3168489024
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 660,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Long_Curious"
-          ],
-          "eventIds": [
-            4129494295
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
-      ],
-      "triggerTime_ms": 957,
+      "triggerTime_ms": 594,
       "Name": "RobotAudioKeyFrame"
     }
   ]

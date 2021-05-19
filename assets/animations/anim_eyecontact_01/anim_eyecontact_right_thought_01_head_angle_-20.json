@@ -758,44 +758,34 @@
       "triggerTime_ms": 495
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious_Short"
-          ],
-          "eventIds": [
-            1350709836
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Curious_Short"
       ],
-      "triggerTime_ms": 0,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        1350709836
+      ],
+      "triggerTime_ms": 0
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Up_Micro_Curious"
-          ],
-          "eventIds": [
-            4157094450
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Up_Long_Curious"
       ],
-      "triggerTime_ms": 99,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        485658282
+      ],
+      "triggerTime_ms": 99
     },
     {
       "Right": [

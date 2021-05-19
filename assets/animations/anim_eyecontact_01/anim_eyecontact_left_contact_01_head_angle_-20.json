@@ -1155,84 +1155,49 @@
       "triggerTime_ms": 1650
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Up_Short_Curious"
-          ],
-          "eventIds": [
-            1393504716
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Up_Long_Curious"
       ],
-      "triggerTime_ms": 165,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        485658282
+      ],
+      "triggerTime_ms": 165
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious"
-          ],
-          "eventIds": [
-            2558890771
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Curious"
       ],
-      "triggerTime_ms": 198,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        2558890771
+      ],
+      "triggerTime_ms": 198
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious_Short"
-          ],
-          "eventIds": [
-            1350709836
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Neutral_Short"
       ],
-      "triggerTime_ms": 957,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Neutral_Short"
-          ],
-          "eventIds": [
-            1752486067
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
       ],
-      "triggerTime_ms": 1452,
-      "Name": "RobotAudioKeyFrame"
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        1752486067
+      ],
+      "triggerTime_ms": 1452
     },
     {
       "Right": [

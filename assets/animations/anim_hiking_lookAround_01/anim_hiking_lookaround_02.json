@@ -5,21 +5,21 @@
       "triggerTime_ms": 33,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 0
+      "height_mm": 32
     },
     {
       "durationTime_ms": 132,
       "triggerTime_ms": 924,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 48
+      "height_mm": 63
     },
     {
       "durationTime_ms": 99,
       "triggerTime_ms": 1056,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 0
+      "height_mm": 32
     },
     {
       "angleVariability_deg": 0,
@@ -2966,89 +2966,109 @@
       "triggerTime_ms": 2937
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Down_Short_Curious"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Down_Short_Curious"
+          ],
+          "eventIds": [
+            3765223799
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3765223799
-      ],
-      "triggerTime_ms": 66
+      "triggerTime_ms": 66,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Lift_High_Up_Long_Excited"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Lift_High_Up_Long_Excited"
+          ],
+          "eventIds": [
+            2956401514
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        2956401514
-      ],
-      "triggerTime_ms": 957
+      "triggerTime_ms": 957,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Scrn_Surprised_Long"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Surprised_Long"
+          ],
+          "eventIds": [
+            3223693447
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3223693447
-      ],
-      "triggerTime_ms": 1881
+      "triggerTime_ms": 1881,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Blink"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Blink"
+          ],
+          "eventIds": [
+            3688286452
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3688286452
-      ],
-      "triggerTime_ms": 2508
+      "triggerTime_ms": 2508,
+      "Name": "RobotAudioKeyFrame"
     },
     {
       "durationTime_ms": 132,
-      "speed": 23,
+      "speed": 174,
       "triggerTime_ms": 957,
       "Name": "BodyMotionKeyFrame",
       "radius_mm": "STRAIGHT"
     },
     {
       "durationTime_ms": 198,
-      "speed": -128,
+      "speed": -220,
       "triggerTime_ms": 1089,
       "Name": "BodyMotionKeyFrame",
       "radius_mm": "STRAIGHT"
     },
     {
       "durationTime_ms": 165,
-      "speed": 31,
+      "speed": 188,
       "triggerTime_ms": 1287,
       "Name": "BodyMotionKeyFrame",
       "radius_mm": "STRAIGHT"
     },
     {
       "durationTime_ms": 99,
-      "speed": 2,
+      "speed": 20,
       "triggerTime_ms": 1452,
       "Name": "BodyMotionKeyFrame",
       "radius_mm": "STRAIGHT"

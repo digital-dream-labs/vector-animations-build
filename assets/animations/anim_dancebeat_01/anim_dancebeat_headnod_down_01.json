@@ -23,17 +23,10 @@
     },
     {
       "angleVariability_deg": 0,
-      "angle_deg": 15,
+      "angle_deg": 9,
       "triggerTime_ms": 132,
       "Name": "HeadAngleKeyFrame",
       "durationTime_ms": 132
-    },
-    {
-      "angleVariability_deg": 0,
-      "angle_deg": 9,
-      "triggerTime_ms": 264,
-      "Name": "HeadAngleKeyFrame",
-      "durationTime_ms": 66
     },
     {
       "Name": "ProceduralFaceKeyFrame",

@@ -1303,10 +1303,10 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Long_Sad"
+            "Play__Robot_Vic_Sfx__Emote_Sad_Long"
           ],
           "eventIds": [
-            1984864293
+            3168489024
           ],
           "volumes": [
             1.0
@@ -1314,46 +1314,6 @@
         }
       ],
       "triggerTime_ms": 627,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Long_Curious"
-          ],
-          "eventIds": [
-            4129494295
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
-      ],
-      "triggerTime_ms": 924,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Stop__Robot_Vic_Sfx__Head_Mood"
-          ],
-          "eventIds": [
-            3271727348
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
-      ],
-      "triggerTime_ms": 1287,
       "Name": "RobotAudioKeyFrame"
     }
   ]

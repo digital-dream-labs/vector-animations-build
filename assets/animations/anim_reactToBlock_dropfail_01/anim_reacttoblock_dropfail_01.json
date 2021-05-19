@@ -245,6 +245,71 @@
         0.0,
         0
       ],
+      "triggerTime_ms": 0
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.0,
+      "leftEye": [
+        8.107326060759803,
+        0.0,
+        1.5174507300664741,
+        1.1453089027930028,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        1.5174507300664741,
+        1.144941064931666,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
       "triggerTime_ms": 165
     },
     {
@@ -4214,9 +4279,9 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.9959030800533244,
+      "faceScaleY": 0.9926264114472108,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 0.9745918271263156,
+      "faceScaleX": 0.9766814590782429,
       "leftEye": [
         8.107326060759803,
         0.0,
@@ -4344,9 +4409,9 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.9526510544526242,
+      "faceScaleY": 0.9493743858465107,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 1.0021749688917536,
+      "faceScaleX": 1.0042646008436809,
       "leftEye": [
         8.107326060759803,
         0.0,
@@ -4409,9 +4474,9 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.9433294312974018,
+      "faceScaleY": 0.9456456670754371,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 1.010431378148114,
+      "faceScaleX": 1.0100050275426053,
       "leftEye": [
         8.107326060759803,
         0.0,
@@ -4474,9 +4539,9 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.9586165874324347,
+      "faceScaleY": 0.9609328232104705,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 1.0076174641517563,
+      "faceScaleX": 1.0071911135462475,
       "leftEye": [
         8.107326060759803,
         0.0,
@@ -4733,124 +4798,94 @@
       "triggerTime_ms": 5181
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Lift_High_Down_Short_Sad"
-          ],
-          "eventIds": [
-            1170663689
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Lift_High_Down_Short_Sad"
       ],
-      "triggerTime_ms": 297,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        1170663689
+      ],
+      "triggerTime_ms": 297
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Sad"
-          ],
-          "eventIds": [
-            2699760977
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Sad"
       ],
-      "triggerTime_ms": 1023,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        2699760977
+      ],
+      "triggerTime_ms": 1023
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Micro_Sad"
-          ],
-          "eventIds": [
-            2026706803
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Down_Micro_Sad"
       ],
-      "triggerTime_ms": 1650,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        2026706803
+      ],
+      "triggerTime_ms": 1650
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Sad_Short"
-          ],
-          "eventIds": [
-            3594885818
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Sad_Short"
       ],
-      "triggerTime_ms": 2145,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        3594885818
+      ],
+      "triggerTime_ms": 2145
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Emote_Sad_Short_Stim"
-          ],
-          "eventIds": [
-            1506863732
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Emote_Sad_Short_Stim"
       ],
-      "triggerTime_ms": 3036,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        1506863732
+      ],
+      "triggerTime_ms": 3036
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious"
-          ],
-          "eventIds": [
-            2558890771
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Curious"
       ],
-      "triggerTime_ms": 4653,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        2558890771
+      ],
+      "triggerTime_ms": 4653
     },
     {
       "Right": [

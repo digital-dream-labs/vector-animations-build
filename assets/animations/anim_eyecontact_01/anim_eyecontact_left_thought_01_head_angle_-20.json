@@ -758,24 +758,19 @@
       "triggerTime_ms": 495
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Up_Micro_Curious"
-          ],
-          "eventIds": [
-            4157094450
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Up_Long_Curious"
       ],
-      "triggerTime_ms": 165,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        485658282
+      ],
+      "triggerTime_ms": 165
     },
     {
       "Right": [
