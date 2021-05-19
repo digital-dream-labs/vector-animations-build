@@ -5134,17 +5134,57 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Lift_High_Down_Short_Surprised"
+            "Play__Robot_Vic_Sfx__Shaking_Level_3_Play"
           ],
           "eventIds": [
-            1371648746
+            505667781
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 2046,
+      "triggerTime_ms": 33,
+      "Name": "RobotAudioKeyFrame",
+      "parameters": [
+        {
+          "curveType": 5,
+          "time_ms": 0,
+          "parameterID": 2064796514,
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "triggerTime_ms": 132,
+      "Name": "RobotAudioKeyFrame",
+      "parameters": [
+        {
+          "curveType": 5,
+          "time_ms": 0,
+          "parameterID": 2064796514,
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Holiday_Lights_Build"
+          ],
+          "eventIds": [
+            1711301107
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 792,
       "Name": "RobotAudioKeyFrame"
     },
     {
@@ -5164,7 +5204,7 @@
           ]
         }
       ],
-      "triggerTime_ms": 2079,
+      "triggerTime_ms": 2112,
       "Name": "RobotAudioKeyFrame"
     },
     {
@@ -5174,17 +5214,37 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious_Long"
+            "Play__Robot_Vic_Sfx__Shaking_Slowmo"
           ],
           "eventIds": [
-            1102367108
+            497523539
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 2475,
+      "triggerTime_ms": 2145,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Emote_Shaking_Level_3"
+          ],
+          "eventIds": [
+            1234596125
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 2706,
       "Name": "RobotAudioKeyFrame"
     }
   ]

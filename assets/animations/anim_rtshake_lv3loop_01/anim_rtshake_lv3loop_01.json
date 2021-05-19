@@ -5505,7 +5505,15 @@
         }
       ],
       "triggerTime_ms": 0,
-      "Name": "RobotAudioKeyFrame"
+      "Name": "RobotAudioKeyFrame",
+      "parameters": [
+        {
+          "curveType": 5,
+          "time_ms": 0,
+          "parameterID": 2064796514,
+          "value": 0.0
+        }
+      ]
     },
     {
       "Right": [

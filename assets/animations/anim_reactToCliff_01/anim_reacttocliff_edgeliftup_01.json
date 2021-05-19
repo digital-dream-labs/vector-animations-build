@@ -1804,9 +1804,9 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.8775633666549816,
+      "faceScaleY": 0.778322008746931,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 0.9798768592370248,
+      "faceScaleX": 0.9895396461122651,
       "leftEye": [
         2.6359354296166444,
         -3.1518084832281446,
@@ -1836,7 +1836,7 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 0.4462313940254603,
+      "faceCenterY": 0.3257489176385775,
       "faceCenterX": 0.0,
       "rightEye": [
         -15.245895244398682,
@@ -2256,6 +2256,26 @@
         0
       ],
       "triggerTime_ms": 1980
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Stop__Robot_Vic_Sfx__How_Old_Loop_Stop"
+          ],
+          "eventIds": [
+            3229565588
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 0,
+      "Name": "RobotAudioKeyFrame"
     },
     {
       "eventGroups": [

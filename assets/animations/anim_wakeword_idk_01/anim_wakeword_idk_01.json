@@ -1956,19 +1956,44 @@
       "triggerTime_ms": 1023
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Wake_Word_Fail"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
+          ],
+          "eventIds": [
+            2558890771
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
+      "triggerTime_ms": 66,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Wake_Word_Fail"
+          ],
+          "eventIds": [
+            1241549428
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        1241549428
-      ],
-      "triggerTime_ms": 396
+      "triggerTime_ms": 396,
+      "Name": "RobotAudioKeyFrame"
     },
     {
       "durationTime_ms": 33,

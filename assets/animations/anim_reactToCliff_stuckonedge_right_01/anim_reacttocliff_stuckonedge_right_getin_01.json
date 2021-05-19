@@ -1263,6 +1263,26 @@
             1.0
           ],
           "audioName": [
+            "Stop__Robot_Vic_Sfx__How_Old_Loop_Stop"
+          ],
+          "eventIds": [
+            3229565588
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 0,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
             "Play__Robot_Vic_Sfx__Scrn_Angry"
           ],
           "eventIds": [
@@ -1314,6 +1334,26 @@
         }
       ],
       "triggerTime_ms": 627,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            0.5
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Emote_Sad_Short"
+          ],
+          "eventIds": [
+            3300673888
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 1320,
       "Name": "RobotAudioKeyFrame"
     }
   ]

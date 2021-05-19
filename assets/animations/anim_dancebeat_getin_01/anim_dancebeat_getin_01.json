@@ -1234,6 +1234,26 @@
           ]
         }
       ],
+      "triggerTime_ms": 99,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
+          ],
+          "eventIds": [
+            2558890771
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
       "triggerTime_ms": 429,
       "Name": "RobotAudioKeyFrame"
     },
