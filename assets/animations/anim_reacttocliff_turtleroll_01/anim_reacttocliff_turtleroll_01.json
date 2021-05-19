@@ -6602,6 +6602,11 @@
       "Name": "RobotAudioKeyFrame"
     },
     {
+      "event_id": "FLIP_DOWN_BEGIN",
+      "triggerTime_ms": 3069,
+      "Name": "EventKeyFrame"
+    },
+    {
       "Right": [
         0.0,
         0.0,

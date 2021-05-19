@@ -35,6 +35,54 @@
       "UseHeadAngle": true,
       "HeadAngleMin_Deg": 30.0,
       "HeadAngleMax_Deg": 45.0
+    },
+    {
+      "Name": "anim_reacttoface_unidentified_02",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_reacttoface_unidentified_02_head_angle_-20",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_reacttoface_unidentified_02_head_angle_20",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_reacttoface_unidentified_02_head_angle_40",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_reacttoface_unidentified_03",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_reacttoface_unidentified_03_head_angle_-20",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_reacttoface_unidentified_03_head_angle_20",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_reacttoface_unidentified_03_head_angle_40",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
     }
   ]
 }

@@ -1507,6 +1507,26 @@
             1.0
           ],
           "audioName": [
+            "Play__Robot_Vic_Sfx__Emote_Curious_Short_Stim"
+          ],
+          "eventIds": [
+            100246366
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 66,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
             "Play__Robot_Vic_Sfx__Head_Down_Short_Curious"
           ],
           "eventIds": [
@@ -1517,7 +1537,7 @@
           ]
         }
       ],
-      "triggerTime_ms": 627,
+      "triggerTime_ms": 891,
       "Name": "RobotAudioKeyFrame"
     },
     {

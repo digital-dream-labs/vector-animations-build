@@ -1651,7 +1651,7 @@
           ]
         }
       ],
-      "triggerTime_ms": 2937,
+      "triggerTime_ms": 2772,
       "Name": "RobotAudioKeyFrame"
     },
     {
@@ -1671,7 +1671,7 @@
           ]
         }
       ],
-      "triggerTime_ms": 3432,
+      "triggerTime_ms": 3366,
       "Name": "RobotAudioKeyFrame"
     },
     {
@@ -1691,7 +1691,7 @@
           ]
         }
       ],
-      "triggerTime_ms": 4818,
+      "triggerTime_ms": 4587,
       "Name": "RobotAudioKeyFrame"
     }
   ]

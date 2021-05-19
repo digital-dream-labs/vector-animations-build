@@ -3973,19 +3973,24 @@
       "triggerTime_ms": 3234
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Scan_Face_Loop_Play"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scan_Face_Loop_Play"
+          ],
+          "eventIds": [
+            3711429789
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3711429789
-      ],
-      "triggerTime_ms": 33
+      "triggerTime_ms": 33,
+      "Name": "RobotAudioKeyFrame"
     }
   ]
 }

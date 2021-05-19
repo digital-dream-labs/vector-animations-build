@@ -2449,6 +2449,46 @@
       "Name": "RobotAudioKeyFrame"
     },
     {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
+          ],
+          "eventIds": [
+            2558890771
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 957,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Down_Micro_Neutral"
+          ],
+          "eventIds": [
+            571987810
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 1551,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
       "durationTime_ms": 66,
       "speed": -60,
       "triggerTime_ms": 264,

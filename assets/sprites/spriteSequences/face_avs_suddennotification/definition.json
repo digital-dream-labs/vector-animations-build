@@ -1,0 +1,19 @@
+
+{
+  "loop" : "doNothing", 
+  "sequence" :[
+    {
+      "segmentType" : "straightThrough",
+      // file names relative to folder
+      "fileList": [
+        "face_avs_suddennotification_0000.png",
+        "face_avs_suddennotification_0001.png",
+        "face_avs_suddennotification_0002.png",
+        "face_avs_suddennotification_0003.png",
+        "face_avs_suddennotification_0004.png",
+        "face_avs_suddennotification_0005.png"
+
+      ]
+    }
+  ]
+}

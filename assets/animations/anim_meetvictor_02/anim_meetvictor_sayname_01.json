@@ -1313,7 +1313,7 @@
         1.0,
         0.0,
         0.0,
-        0.16118849130243762,
+        0.16350921798113827,
         0
       ],
       "faceAngle": 0.0,
@@ -1344,7 +1344,7 @@
         1.0,
         0.0,
         0.0,
-        0.16287164973544221,
+        0.16521660984823228,
         0
       ],
       "triggerTime_ms": 924
@@ -1378,7 +1378,7 @@
         1.0,
         0.0,
         0.0,
-        0.15290018173565045,
+        0.15530379151001905,
         0
       ],
       "faceAngle": 0.0,
@@ -1409,7 +1409,7 @@
         1.0,
         0.0,
         0.0,
-        0.1544967921897643,
+        0.15692550087801116,
         0
       ],
       "triggerTime_ms": 957
@@ -1442,7 +1442,7 @@
         1,
         1.0,
         0.0,
-        0.03282537607799679,
+        0.02773744278590718,
         0.13632356260207623,
         0
       ],
@@ -1473,7 +1473,7 @@
         1,
         1.0,
         0.0,
-        -0.026010940439434305,
+        -0.02197924467132184,
         0.1377470770984084,
         0
       ],
@@ -1638,7 +1638,7 @@
         1.0,
         0.0,
         0.062379009993370614,
-        -0.12135966954196564,
+        -0.10072852571983207,
         0
       ],
       "faceAngle": 0.0,
@@ -1669,7 +1669,7 @@
         1.0,
         0.0,
         -0.05554816257484674,
-        -0.12135593653029604,
+        -0.1007254273201463,
         0
       ],
       "triggerTime_ms": 1122
@@ -2650,94 +2650,164 @@
       "triggerTime_ms": 3333
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Up_Micro_Happy"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Stop__Robot_Vic_Sfx__Scan_Face_Loop_Stop"
+          ],
+          "eventIds": [
+            670694969
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3995789686
-      ],
-      "triggerTime_ms": 99
+      "triggerTime_ms": 0,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Scrn_Happy"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scan_Face_Success"
+          ],
+          "eventIds": [
+            1554373331
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        2349381079
-      ],
-      "triggerTime_ms": 1056
+      "triggerTime_ms": 33,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Up_Short_Curious"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Micro_Happy"
+          ],
+          "eventIds": [
+            3995789686
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        1393504716
-      ],
-      "triggerTime_ms": 1617
+      "triggerTime_ms": 99,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic__External_Voice_Text"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Happy"
+          ],
+          "eventIds": [
+            2349381079
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        2774572774
-      ],
-      "triggerTime_ms": 2343
+      "triggerTime_ms": 1056,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Up_Short_Excited"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Short_Curious"
+          ],
+          "eventIds": [
+            1393504716
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        158400132
-      ],
-      "triggerTime_ms": 2871
+      "triggerTime_ms": 1617,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Scrn_Happy"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic__External_Voice_Text"
+          ],
+          "eventIds": [
+            2774572774
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
+      "triggerTime_ms": 2343,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Short_Excited"
+          ],
+          "eventIds": [
+            158400132
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        2349381079
+      "triggerTime_ms": 2871,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Happy"
+          ],
+          "eventIds": [
+            2349381079
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "triggerTime_ms": 2904
+      "triggerTime_ms": 2904,
+      "Name": "RobotAudioKeyFrame"
     },
     {
       "durationTime_ms": 33,
