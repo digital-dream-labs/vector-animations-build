@@ -4809,26 +4809,6 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Lift_Low_Up_Short_Curious"
-          ],
-          "eventIds": [
-            3426944102
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
-      ],
-      "triggerTime_ms": 1386,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
             "Play__Robot_Vic_Sfx__Scrn_Curious_Short"
           ],
           "eventIds": [
@@ -4860,26 +4840,6 @@
         }
       ],
       "triggerTime_ms": 2640,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Lift_Low_Down_Long_Curious"
-          ],
-          "eventIds": [
-            828137553
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
-      ],
-      "triggerTime_ms": 2805,
       "Name": "RobotAudioKeyFrame"
     },
     {

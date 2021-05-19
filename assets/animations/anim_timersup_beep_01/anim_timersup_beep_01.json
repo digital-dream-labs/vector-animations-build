@@ -82,7 +82,7 @@
       "triggerTime_ms": 2970,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 52
+      "height_mm": 47
     },
     {
       "durationTime_ms": 66,
@@ -117,7 +117,7 @@
       "triggerTime_ms": 4191,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 45
+      "height_mm": 47
     },
     {
       "durationTime_ms": 99,
@@ -138,14 +138,14 @@
       "triggerTime_ms": 5610,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 55
+      "height_mm": 53
     },
     {
       "durationTime_ms": 132,
       "triggerTime_ms": 5709,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 41
+      "height_mm": 44
     },
     {
       "durationTime_ms": 99,
@@ -166,42 +166,42 @@
       "triggerTime_ms": 6930,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 52
+      "height_mm": 48
     },
     {
-      "durationTime_ms": 66,
+      "durationTime_ms": 99,
       "triggerTime_ms": 7029,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 39
+      "height_mm": 40
     },
     {
       "durationTime_ms": 132,
-      "triggerTime_ms": 7095,
+      "triggerTime_ms": 7128,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
       "height_mm": 47
     },
     {
       "durationTime_ms": 99,
-      "triggerTime_ms": 7227,
+      "triggerTime_ms": 7260,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
       "height_mm": 41
     },
     {
       "durationTime_ms": 99,
-      "triggerTime_ms": 8382,
+      "triggerTime_ms": 8349,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
       "height_mm": 48
     },
     {
-      "durationTime_ms": 66,
-      "triggerTime_ms": 8481,
+      "durationTime_ms": 99,
+      "triggerTime_ms": 8448,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 39
+      "height_mm": 40
     },
     {
       "durationTime_ms": 99,
@@ -232,7 +232,7 @@
       "height_mm": 48
     },
     {
-      "durationTime_ms": 66,
+      "durationTime_ms": 99,
       "triggerTime_ms": 9636,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
@@ -240,14 +240,14 @@
     },
     {
       "durationTime_ms": 99,
-      "triggerTime_ms": 9702,
+      "triggerTime_ms": 9735,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
       "height_mm": 44
     },
     {
       "durationTime_ms": 99,
-      "triggerTime_ms": 9801,
+      "triggerTime_ms": 9834,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
       "height_mm": 41
@@ -3351,6 +3351,71 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0808239453931598,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 0.9579202023181969,
+      "leftEye": [
+        8.407473729410027,
+        0.0,
+        1.5174507300664741,
+        1.1453089027930028,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6898480974236916,
+        0.6898480974236916,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.415699263482843,
+        0.0,
+        1.5170514910402757,
+        1.1429948207302372,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6898480974236916,
+        0.6898480974236916,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "triggerTime_ms": 1980
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
       "faceScaleY": 1.0000114920936238,
       "scanlineOpacity": 1.0,
       "faceScaleX": 0.9999952582305486,
@@ -3386,8 +3451,8 @@
       "faceCenterY": 0.0,
       "faceCenterX": 0.0,
       "rightEye": [
-        -7.315991464547729,
-        0.0,
+        76.32037217181593,
+        -79.99999999999997,
         1.5170514910402757,
         1.1429948207302372,
         0.0,
@@ -3451,8 +3516,8 @@
       "faceCenterY": 0.0,
       "faceCenterX": 0.0,
       "rightEye": [
-        -7.315991464547729,
-        0.0,
+        44.438264842863745,
+        -50.35041684015512,
         1.5170514910402757,
         1.1429948207302372,
         0.0,
@@ -12783,7 +12848,7 @@
         13.815836939654815,
         0.0,
         1.5174507300664741,
-        1.0041491391098765,
+        1.0041491391098734,
         0.0,
         0.6,
         0.6,
@@ -12814,7 +12879,7 @@
         -9.99972229870476,
         0.0,
         1.558287285464669,
-        1.1992817126224986,
+        1.199281712622499,
         0.0,
         0.6,
         0.6,
@@ -12943,7 +13008,7 @@
       "rightEye": [
         -9.99972229870476,
         0.0,
-        1.5565781438358708,
+        1.556578143835871,
         1.1428870325901896,
         0.0,
         0.6,

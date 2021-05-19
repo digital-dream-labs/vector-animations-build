@@ -3864,26 +3864,6 @@
       "Name": "RobotAudioKeyFrame"
     },
     {
-      "eventGroups": [
-        {
-          "probabilities": [
-            1.0
-          ],
-          "audioName": [
-            "Play__Robot_Vic_Sfx__Lift_Low_Up_Short_Curious"
-          ],
-          "eventIds": [
-            3426944102
-          ],
-          "volumes": [
-            1.0
-          ]
-        }
-      ],
-      "triggerTime_ms": 2475,
-      "Name": "RobotAudioKeyFrame"
-    },
-    {
       "durationTime_ms": 82,
       "speed": -49,
       "triggerTime_ms": 82,

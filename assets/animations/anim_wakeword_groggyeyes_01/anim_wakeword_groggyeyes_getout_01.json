@@ -1,7 +1,7 @@
 {
   "anim_wakeword_groggyeyes_getout_01": [
     {
-      "durationTime_ms": 66,
+      "durationTime_ms": 33,
       "triggerTime_ms": 0,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
@@ -12,28 +12,21 @@
       "angle_deg": 33,
       "triggerTime_ms": 0,
       "Name": "HeadAngleKeyFrame",
-      "durationTime_ms": 66
+      "durationTime_ms": 33
     },
     {
       "angleVariability_deg": 0,
       "angle_deg": 31,
-      "triggerTime_ms": 66,
+      "triggerTime_ms": 33,
       "Name": "HeadAngleKeyFrame",
       "durationTime_ms": 66
     },
     {
       "angleVariability_deg": 0,
       "angle_deg": 28,
-      "triggerTime_ms": 132,
+      "triggerTime_ms": 99,
       "Name": "HeadAngleKeyFrame",
       "durationTime_ms": 66
-    },
-    {
-      "angleVariability_deg": 0,
-      "angle_deg": 26,
-      "triggerTime_ms": 198,
-      "Name": "HeadAngleKeyFrame",
-      "durationTime_ms": 99
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -102,71 +95,6 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 1.0,
-      "scanlineOpacity": 1.0,
-      "faceScaleX": 1.0,
-      "leftEye": [
-        14.958794608855115,
-        1.5074656190751767,
-        1.5174507300664741,
-        1.1453089027930028,
-        0.0,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6991605903504969,
-        0.6991605903504969,
-        0.6,
-        0.6,
-        0.2841090582507546,
-        -5.187973608539057,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1,
-        1.0,
-        0.0,
-        0.17147099521058,
-        -0.5630089412134348,
-        0
-      ],
-      "faceAngle": 7.8675989748290185,
-      "durationTime_ms": 0,
-      "faceCenterY": -4.524329305819449,
-      "faceCenterX": 0.0,
-      "rightEye": [
-        -7.315991464547729,
-        0.0,
-        1.5501098733250411,
-        1.206581023064827,
-        0.0,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6991605903504969,
-        0.6991605903504969,
-        0.6,
-        0.6,
-        0.24732070124585515,
-        1.8467611850480736,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1,
-        1.0,
-        0.0,
-        0.2808228338468637,
-        -0.5733974188600436,
-        0
-      ],
-      "triggerTime_ms": 33
-    },
-    {
-      "Name": "ProceduralFaceKeyFrame",
       "faceScaleY": 0.635177498745684,
       "scanlineOpacity": 1.0,
       "faceScaleX": 1.059002445396452,
@@ -228,7 +156,7 @@
         0.5279319347573395,
         0
       ],
-      "triggerTime_ms": 99
+      "triggerTime_ms": 66
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -293,7 +221,7 @@
         -3.52929353237909e-05,
         0
       ],
-      "triggerTime_ms": 132
+      "triggerTime_ms": 99
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -358,7 +286,7 @@
         -3.52929353237909e-05,
         0
       ],
-      "triggerTime_ms": 165
+      "triggerTime_ms": 132
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -423,7 +351,7 @@
         -3.52929353237909e-05,
         0
       ],
-      "triggerTime_ms": 198
+      "triggerTime_ms": 165
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -488,137 +416,7 @@
         -3.52929353237909e-05,
         0
       ],
-      "triggerTime_ms": 264
-    },
-    {
-      "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 1.0788079780193922,
-      "scanlineOpacity": 1.0,
-      "faceScaleX": 0.930846305259319,
-      "leftEye": [
-        10.124188589603222,
-        0.024009656346692054,
-        1.5174507300664741,
-        1.1446060097206756,
-        0.0,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1,
-        1.0,
-        0.0,
-        0.000984379247190923,
-        -1.981409597197535e-05,
-        0
-      ],
-      "faceAngle": 0.0010308203692329313,
-      "durationTime_ms": 0,
-      "faceCenterY": 1.9489450177235383,
-      "faceCenterX": 0.0,
-      "rightEye": [
-        -9.448259440585517,
-        0.0,
-        1.5174507300664741,
-        1.144941064931666,
-        0.0,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1,
-        1.0,
-        0.0,
-        0.0010639592831909342,
-        -3.52929353237909e-05,
-        0
-      ],
-      "triggerTime_ms": 330
-    },
-    {
-      "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.9763546159492303,
-      "scanlineOpacity": 1.0,
-      "faceScaleX": 1.0187440556558183,
-      "leftEye": [
-        8.854604898954001,
-        0.024009656346692054,
-        1.5174507300664741,
-        1.1446060097206756,
-        0.0,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1,
-        1.0,
-        0.0,
-        0.000984379247190923,
-        -1.981409597197535e-05,
-        0
-      ],
-      "faceAngle": 0.0010308203692329313,
-      "durationTime_ms": 0,
-      "faceCenterY": -0.0010203667711425693,
-      "faceCenterX": 0.0,
-      "rightEye": [
-        -7.843908649178246,
-        0.0,
-        1.5174507300664741,
-        1.144941064931666,
-        0.0,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.6,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1,
-        1.0,
-        0.0,
-        0.0010639592831909342,
-        -3.52929353237909e-05,
-        0
-      ],
-      "triggerTime_ms": 495
+      "triggerTime_ms": 231
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -683,7 +481,7 @@
         -3.52929353237909e-05,
         0
       ],
-      "triggerTime_ms": 561
+      "triggerTime_ms": 297
     },
     {
       "eventGroups": [
@@ -713,7 +511,7 @@
         0.0
       ],
       "Name": "BackpackLightsKeyFrame",
-      "durationTime_ms": 66,
+      "durationTime_ms": 33,
       "Back": [
         0.0,
         0.0,
@@ -748,7 +546,7 @@
         0.0
       ],
       "Name": "BackpackLightsKeyFrame",
-      "durationTime_ms": 495,
+      "durationTime_ms": 264,
       "Back": [
         0.0,
         0.0,
@@ -767,7 +565,7 @@
         0.0,
         0.0
       ],
-      "triggerTime_ms": 66,
+      "triggerTime_ms": 33,
       "Left": [
         0.0,
         0.0,
@@ -778,14 +576,7 @@
     {
       "durationTime_ms": 99,
       "speed": -25,
-      "triggerTime_ms": 66,
-      "Name": "BodyMotionKeyFrame",
-      "radius_mm": "STRAIGHT"
-    },
-    {
-      "durationTime_ms": 165,
-      "speed": 23,
-      "triggerTime_ms": 165,
+      "triggerTime_ms": 33,
       "Name": "BodyMotionKeyFrame",
       "radius_mm": "STRAIGHT"
     }

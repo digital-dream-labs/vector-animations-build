@@ -1804,7 +1804,7 @@
     },
     {
       "Name": "ProceduralFaceKeyFrame",
-      "faceScaleY": 0.778322008746931,
+      "faceScaleY": 0.7783220087469314,
       "scanlineOpacity": 1.0,
       "faceScaleX": 0.9895396461122651,
       "leftEye": [
@@ -1836,7 +1836,7 @@
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 0.3257489176385775,
+      "faceCenterY": 0.32574891763858144,
       "faceCenterX": 0.0,
       "rightEye": [
         -15.245895244398682,

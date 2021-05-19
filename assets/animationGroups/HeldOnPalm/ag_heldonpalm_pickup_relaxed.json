@@ -1,7 +1,7 @@
 {
   "Animations": [
     {
-      "Name": "anim_chargerdocking_comeoff_straight_01",
+      "Name": "anim_heldonpalm_pickup_relaxed_01",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
