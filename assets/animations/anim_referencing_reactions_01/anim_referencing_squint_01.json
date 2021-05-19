@@ -2438,17 +2438,41 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Emote_Happy_Short"
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
           ],
           "eventIds": [
-            2483759946
+            2558890771
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 132,
+      "triggerTime_ms": 99,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            0.5,
+            0.5
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Down_Short_Curious",
+            "Play__Robot_Vic_Sfx__Head_Down_Micro_Neutral"
+          ],
+          "eventIds": [
+            3765223799,
+            571987810
+          ],
+          "volumes": [
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 198,
       "Name": "RobotAudioKeyFrame"
     },
     {

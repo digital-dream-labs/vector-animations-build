@@ -2541,6 +2541,110 @@
       "triggerTime_ms": 2178
     },
     {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
+          ],
+          "eventIds": [
+            2558890771
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 33,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            0.5,
+            0.5
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Down_Micro_Curious",
+            "Play__Robot_Vic_Sfx__Lift_High_Down_Micro_Curious"
+          ],
+          "eventIds": [
+            16087513,
+            3007251021
+          ],
+          "volumes": [
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 198,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Curious_Short"
+          ],
+          "eventIds": [
+            1350709836
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 627,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
+          ],
+          "eventIds": [
+            2558890771
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 990,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Blink"
+          ],
+          "eventIds": [
+            3688286452
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 1782,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
       "Right": [
         0.0,
         0.0,

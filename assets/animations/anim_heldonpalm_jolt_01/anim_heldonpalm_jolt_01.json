@@ -2698,10 +2698,10 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Long_Surprised"
+            "Play__Robot_Vic_Sfx__Head_Down_Short_Surprised"
           ],
           "eventIds": [
-            3279354518
+            3841377270
           ],
           "volumes": [
             1.0
@@ -2718,10 +2718,50 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Surprised_Long"
+            "Play__Robot_Vic_Sfx__Tread_Surprised"
           ],
           "eventIds": [
-            3223693447
+            2871689124
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 693,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
+          ],
+          "eventIds": [
+            2558890771
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 990,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Down_Micro_Curious"
+          ],
+          "eventIds": [
+            16087513
           ],
           "volumes": [
             1.0
@@ -2748,7 +2788,7 @@
           ]
         }
       ],
-      "triggerTime_ms": 1914,
+      "triggerTime_ms": 1881,
       "Name": "RobotAudioKeyFrame"
     },
     {
@@ -2889,41 +2929,6 @@
         0.0
       ],
       "triggerTime_ms": 99,
-      "Left": [
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    {
-      "Right": [
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "Name": "BackpackLightsKeyFrame",
-      "durationTime_ms": 759,
-      "Back": [
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "Middle": [
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "Front": [
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "triggerTime_ms": 3201,
       "Left": [
         0.0,
         0.0,

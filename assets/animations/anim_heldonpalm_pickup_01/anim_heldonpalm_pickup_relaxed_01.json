@@ -4137,17 +4137,17 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Short_Happy"
+            "Play__Robot_Vic_Sfx__Emote_Curious_Long"
           ],
           "eventIds": [
-            3178694131
+            168487306
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 2673,
+      "triggerTime_ms": 2706,
       "Name": "RobotAudioKeyFrame"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "anim_qa_lift_updown": [
+  "anim_qa_lift_updown_alt": [
     {
       "durationTime_ms": 363,
       "triggerTime_ms": 0,
@@ -12,7 +12,7 @@
       "triggerTime_ms": 363,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -26,7 +26,7 @@
       "triggerTime_ms": 1056,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -40,7 +40,7 @@
       "triggerTime_ms": 1749,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -54,7 +54,7 @@
       "triggerTime_ms": 2442,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -68,7 +68,7 @@
       "triggerTime_ms": 3135,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -82,7 +82,7 @@
       "triggerTime_ms": 3828,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -96,7 +96,7 @@
       "triggerTime_ms": 4521,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -110,7 +110,7 @@
       "triggerTime_ms": 5214,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -124,7 +124,7 @@
       "triggerTime_ms": 5907,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -138,7 +138,7 @@
       "triggerTime_ms": 6600,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "durationTime_ms": 330,
@@ -152,7 +152,7 @@
       "triggerTime_ms": 7293,
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
-      "height_mm": 32
+      "height_mm": 44
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -218,6 +218,71 @@
         0
       ],
       "triggerTime_ms": 0
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.0,
+      "leftEye": [
+        8.107326060759803,
+        0.0,
+        1.5174507300664741,
+        1.1453089027930028,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        1.5174507300664741,
+        1.144941064931666,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "triggerTime_ms": 7656
     },
     {
       "Right": [

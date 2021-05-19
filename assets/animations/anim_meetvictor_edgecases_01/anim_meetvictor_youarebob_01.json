@@ -176,7 +176,7 @@
         0.0,
         1,
         1.0,
-        0.21185792230959793,
+        0.21473934308650194,
         9.577689215498246e-05,
         -7.995063708661468e-05,
         0
@@ -207,7 +207,7 @@
         0.0,
         1,
         1.0,
-        0.20685792230959799,
+        0.20478934308650204,
         -5.313353491254169e-05,
         -7.155398628165746e-05,
         0
@@ -241,7 +241,7 @@
         0.0,
         1,
         1.0,
-        0.004178947925446402,
+        0.008332527413129426,
         9.577689215498246e-05,
         -7.995063708661468e-05,
         0
@@ -272,7 +272,7 @@
         0.0,
         1,
         1.0,
-        0.004178947925446402,
+        0.008232527413129409,
         -5.313353491254169e-05,
         -7.155398628165746e-05,
         0
@@ -306,7 +306,7 @@
         0.0,
         1,
         1.0,
-        0.0,
+        0.0001253684377633922,
         9.577689215498246e-05,
         -7.995063708661468e-05,
         0
@@ -337,7 +337,7 @@
         0.0,
         1,
         1.0,
-        0.0,
+        0.0001253684377633922,
         -5.313353491254169e-05,
         -7.155398628165746e-05,
         0
@@ -578,7 +578,7 @@
       "rightEye": [
         -8.863791521678998,
         0.0014734926859674147,
-        1.5582165269340544,
+        1.5553654151241967,
         1.1323147139483962,
         0.0,
         0.4939051626438526,
@@ -956,7 +956,7 @@
         0.0,
         1,
         1.0,
-        0.43499999999999966,
+        0.3784499999999994,
         0.16173449527975617,
         0.0,
         0
@@ -987,7 +987,7 @@
         0.0,
         1,
         1.0,
-        0.43499999999999966,
+        0.3784499999999994,
         0.16370531656657708,
         0.0,
         0
@@ -1021,7 +1021,7 @@
         0.0,
         1,
         1.0,
-        0.5,
+        0.4909,
         0.16173449527975617,
         0.0,
         0
@@ -1052,7 +1052,7 @@
         0.0,
         1,
         1.0,
-        0.5,
+        0.4909,
         0.16370531656657708,
         0.0,
         0
@@ -1128,62 +1128,62 @@
       "Name": "ProceduralFaceKeyFrame",
       "faceScaleY": 0.7699036408183182,
       "scanlineOpacity": 1.0,
-      "faceScaleX": 0.9782036354722041,
+      "faceScaleX": 0.9775048033945172,
       "leftEye": [
         8.107326060759803,
-        -0.2099987552476108,
-        1.5923018759267562,
+        -0.2316826378250503,
+        1.5926717192352764,
         1.1295548564668239,
         0.0,
-        0.5140828680733309,
+        0.5107899002202493,
         0.5368544684468423,
-        0.5257477028370506,
+        0.5178885812863885,
         0.6053085301616601,
-        0.6166110009569578,
+        0.6114336094306381,
         0.678557888368021,
-        0.514769947605056,
+        0.514815819537353,
         0.5705647900744376,
         0.15285085783800323,
         0.0,
         0.0,
-        0.17957120935246018,
-        3.4565961579328843,
+        0.17562523717821008,
+        3.3330893427546493,
         0.0,
         1,
         1.0,
         0.5,
-        0.0836290911518896,
+        0.08362909115188967,
         -0.14156633166829286,
         0
       ],
       "faceAngle": 0.0,
       "durationTime_ms": 0,
-      "faceCenterY": 0.05019509957771362,
+      "faceCenterY": 0.042279930477631664,
       "faceCenterX": 0.0,
       "rightEye": [
         -7.315991464547729,
         0.0,
-        1.5996252021967414,
+        1.6005974140552894,
         1.1842930291011546,
         0.0,
-        0.5140828680733309,
+        0.5107899002202493,
         0.5368544684468423,
-        0.5257477028370506,
+        0.5178885812863885,
         0.6053085301616601,
-        0.6130081070631552,
+        0.6081407466202763,
         0.6746241326093567,
-        0.514769947605056,
+        0.514815819537353,
         0.5705647900744376,
         0.12951216190822112,
-        0.6738603342053043,
+        0.7337548969560824,
         0.0,
-        0.1656702622035522,
-        -0.6184450863769096,
+        0.1628224562375346,
+        -0.6257605348759506,
         0.0,
         1,
         1.0,
         0.5,
-        0.07754558765476084,
+        0.07754558765476109,
         -0.13848796923883624,
         0
       ],
@@ -3100,7 +3100,7 @@
         0.0,
         0.0,
         1,
-        1.000000453284717,
+        1.0,
         0.5,
         0.0,
         0.0,
@@ -3131,7 +3131,7 @@
         0.0,
         0.0,
         1,
-        1.000000409454455,
+        1.0,
         0.5,
         0.0,
         0.0,
@@ -3165,8 +3165,8 @@
         0.0,
         0.0,
         1,
-        1.0000001412835482,
-        0.12000000000000055,
+        1.0,
+        0.5,
         0.0,
         0.0,
         0
@@ -3196,8 +3196,8 @@
         0.0,
         0.0,
         1,
-        1.0000001276221677,
-        0.12000000000000055,
+        1.0,
+        0.5,
         0.0,
         0.0,
         0
@@ -3231,7 +3231,7 @@
         0.0,
         1,
         1.0,
-        0.0,
+        0.21500000000000297,
         0.0,
         0.0,
         0
@@ -3262,7 +3262,7 @@
         0.0,
         1,
         1.0,
-        0.0,
+        0.21500000000000297,
         0.0,
         0.0,
         0
@@ -3296,7 +3296,7 @@
         0.0,
         1,
         1.0,
-        0.0,
+        0.031200000000000006,
         0.0,
         0.0,
         0
@@ -3327,7 +3327,7 @@
         0.0,
         1,
         1.0,
-        0.0,
+        0.031200000000000006,
         0.0,
         0.0,
         0
@@ -3946,7 +3946,7 @@
         0.0,
         1,
         1.0,
-        0.5,
+        0.15749999999999986,
         0.0,
         0.0,
         0
@@ -3977,7 +3977,7 @@
         0.0,
         1,
         1.0,
-        0.5,
+        0.15749999999999986,
         0.0,
         0.0,
         0
@@ -3985,184 +3985,244 @@
       "triggerTime_ms": 4521
     },
     {
-      "audioName": [
-        "Stop__Robot_Vic_Sfx__Lift_Loop_Stop"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Stop__Robot_Vic_Sfx__Lift_Loop_Stop"
+          ],
+          "eventIds": [
+            736173087
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        736173087
-      ],
-      "triggerTime_ms": 0
+      "triggerTime_ms": 0,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Scrn_Angry"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Angry"
+          ],
+          "eventIds": [
+            2459769158
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        2459769158
-      ],
-      "triggerTime_ms": 132
+      "triggerTime_ms": 132,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Up_Micro_Happy"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Micro_Happy"
+          ],
+          "eventIds": [
+            3995789686
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3995789686
-      ],
-      "triggerTime_ms": 198
+      "triggerTime_ms": 198,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Down_Long_Sad"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Down_Long_Sad"
+          ],
+          "eventIds": [
+            1984864293
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        1984864293
-      ],
-      "triggerTime_ms": 528
+      "triggerTime_ms": 528,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Scrn_Angry"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Angry"
+          ],
+          "eventIds": [
+            2459769158
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        2459769158
-      ],
-      "triggerTime_ms": 2970
+      "triggerTime_ms": 2970,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Up_Short_Curious"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Short_Curious"
+          ],
+          "eventIds": [
+            1393504716
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        1393504716
-      ],
-      "triggerTime_ms": 3003
+      "triggerTime_ms": 3003,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Lift_High_Down_Short_Curious"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Lift_High_Down_Short_Curious"
+          ],
+          "eventIds": [
+            3522081323
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3522081323
-      ],
-      "triggerTime_ms": 3498
+      "triggerTime_ms": 3498,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Up_Short_Excited"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Short_Excited"
+          ],
+          "eventIds": [
+            158400132
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        158400132
-      ],
-      "triggerTime_ms": 3531
+      "triggerTime_ms": 3531,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Head_Up_Short_Excited"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Short_Excited"
+          ],
+          "eventIds": [
+            158400132
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        158400132
-      ],
-      "triggerTime_ms": 3729
+      "triggerTime_ms": 3729,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Stop__Robot_Vic_Sfx__Head_Mood"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Stop__Robot_Vic_Sfx__Head_Mood"
+          ],
+          "eventIds": [
+            3271727348
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3271727348
-      ],
-      "triggerTime_ms": 3894
+      "triggerTime_ms": 3894,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Play__Robot_Vic_Sfx__Lift_High_Up_Short_Excited"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Lift_High_Up_Short_Excited"
+          ],
+          "eventIds": [
+            3743401560
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        3743401560
-      ],
-      "triggerTime_ms": 3927
+      "triggerTime_ms": 3927,
+      "Name": "RobotAudioKeyFrame"
     },
     {
-      "audioName": [
-        "Stop__Robot_Vic_Sfx__Lift_High_Mood"
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Stop__Robot_Vic_Sfx__Lift_High_Mood"
+          ],
+          "eventIds": [
+            2505487592
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
       ],
-      "Name": "RobotAudioKeyFrame",
-      "probability": [
-        1.0
-      ],
-      "hasAlts": true,
-      "volume": 1.0,
-      "audioEventId": [
-        2505487592
-      ],
-      "triggerTime_ms": 4224
+      "triggerTime_ms": 4224,
+      "Name": "RobotAudioKeyFrame"
     },
     {
       "Right": [
