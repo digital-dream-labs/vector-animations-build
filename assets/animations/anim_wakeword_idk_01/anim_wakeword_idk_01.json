@@ -1982,18 +1982,108 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Wake_Word_Fail"
+            "Play__Robot_Vic_Sfx__Emote_Cant_Do_That_4"
           ],
           "eventIds": [
-            1241549428
+            3950866390
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 396,
+      "triggerTime_ms": 297,
       "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Neutral_Short"
+          ],
+          "eventIds": [
+            1752486067
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 759,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 132,
+      "Back": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 0,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 891,
+      "Back": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 132,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
     },
     {
       "durationTime_ms": 33,
