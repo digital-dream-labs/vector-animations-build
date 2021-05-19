@@ -1,0 +1,44 @@
+{
+  "anim_reacttocliff_stuckrightside_03": [
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Angry"
+          ],
+          "eventIds": [
+            2459769158
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 825,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Surprised"
+          ],
+          "eventIds": [
+            1528281890
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 1980,
+      "Name": "RobotAudioKeyFrame"
+    }
+  ]
+}

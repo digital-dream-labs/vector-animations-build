@@ -1,0 +1,26 @@
+
+{
+  "loop" : "doNothing", 
+  "sequence" :[
+    {
+      "segmentType" : "straightThrough",
+      // file names relative to folder
+      "fileList": [
+        "face_knowledgegraph_getout_00000.png",
+        "face_knowledgegraph_getout_00001.png",
+        "face_knowledgegraph_getout_00002.png",
+        "face_knowledgegraph_getout_00003.png",
+        "face_knowledgegraph_getout_00004.png",
+        "face_knowledgegraph_getout_00005.png",
+        "face_knowledgegraph_getout_00006.png",
+        "face_knowledgegraph_getout_00007.png",
+        "face_knowledgegraph_getout_00008.png",
+        "face_knowledgegraph_getout_00009.png",
+        "face_knowledgegraph_getout_00010.png",
+        "face_knowledgegraph_getout_00011.png",
+        "face_knowledgegraph_getout_00012.png"
+
+      ]
+    }
+  ]
+}

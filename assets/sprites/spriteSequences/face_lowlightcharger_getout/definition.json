@@ -1,0 +1,46 @@
+
+{
+  "loop" : "doNothing", 
+  "sequence" :[
+    {
+      "segmentType" : "straightThrough",
+      // file names relative to folder
+      "fileList": [
+        "face_lowlightcharger_getout_00000.png",
+        "face_lowlightcharger_getout_00001.png",
+        "face_lowlightcharger_getout_00002.png",
+        "face_lowlightcharger_getout_00003.png",
+        "face_lowlightcharger_getout_00004.png",
+        "face_lowlightcharger_getout_00005.png",
+        "face_lowlightcharger_getout_00006.png",
+        "face_lowlightcharger_getout_00007.png",
+        "face_lowlightcharger_getout_00008.png",
+        "face_lowlightcharger_getout_00009.png",
+        "face_lowlightcharger_getout_00010.png",
+        "face_lowlightcharger_getout_00011.png",
+        "face_lowlightcharger_getout_00012.png",
+        "face_lowlightcharger_getout_00013.png",
+        "face_lowlightcharger_getout_00014.png",
+        "face_lowlightcharger_getout_00015.png",
+        "face_lowlightcharger_getout_00016.png",
+        "face_lowlightcharger_getout_00017.png",
+        "face_lowlightcharger_getout_00018.png",
+        "face_lowlightcharger_getout_00019.png",
+        "face_lowlightcharger_getout_00020.png",
+        "face_lowlightcharger_getout_00021.png",
+        "face_lowlightcharger_getout_00022.png",
+        "face_lowlightcharger_getout_00023.png",
+        "face_lowlightcharger_getout_00024.png",
+        "face_lowlightcharger_getout_00025.png",
+        "face_lowlightcharger_getout_00026.png",
+        "face_lowlightcharger_getout_00027.png",
+        "face_lowlightcharger_getout_00028.png",
+        "face_lowlightcharger_getout_00029.png",
+        "face_lowlightcharger_getout_00030.png",
+        "face_lowlightcharger_getout_00031.png",
+        "face_lowlightcharger_getout_00032.png"
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "anim_knowledgegraph_answer_01": [
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Stop__Robot_Vic_Sfx__Knowledge_Graph_Listening_Loop_Stop"
+          ],
+          "eventIds": [
+            3712102539
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 0,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "animName": "face_knowledgegraph_answer",
+      "triggerTime_ms": 0,
+      "Name": "FaceAnimationKeyFrame"
+    }
+  ]
+}

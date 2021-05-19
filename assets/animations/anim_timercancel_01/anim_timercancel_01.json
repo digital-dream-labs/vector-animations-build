@@ -1,0 +1,400 @@
+{
+  "anim_timercancel_01": [
+    {
+      "durationTime_ms": 363,
+      "triggerTime_ms": 627,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 52
+    },
+    {
+      "durationTime_ms": 99,
+      "triggerTime_ms": 990,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 0,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 198
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -9,
+      "triggerTime_ms": 198,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 12,
+      "triggerTime_ms": 297,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 21,
+      "triggerTime_ms": 627,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -6,
+      "triggerTime_ms": 726,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -13,
+      "triggerTime_ms": 825,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -21,
+      "triggerTime_ms": 924,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 15,
+      "triggerTime_ms": 990,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -9,
+      "triggerTime_ms": 1056,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 33
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 15,
+      "triggerTime_ms": 1089,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -4,
+      "triggerTime_ms": 1155,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 15,
+      "triggerTime_ms": 1221,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -9,
+      "triggerTime_ms": 1287,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 13,
+      "triggerTime_ms": 1353,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -15,
+      "triggerTime_ms": 1419,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 17,
+      "triggerTime_ms": 1518,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -10,
+      "triggerTime_ms": 1584,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 20,
+      "triggerTime_ms": 1650,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 0,
+      "triggerTime_ms": 1716,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Head_Up_Short_Excited"
+      ],
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        158400132
+      ],
+      "triggerTime_ms": 330
+    },
+    {
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Scrn_Curious"
+      ],
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        2558890771
+      ],
+      "triggerTime_ms": 561
+    },
+    {
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Lift_High_Up_Micro_Excited"
+      ],
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        3588927098
+      ],
+      "triggerTime_ms": 792
+    },
+    {
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Timer_End"
+      ],
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        1848638287
+      ],
+      "triggerTime_ms": 1056
+    },
+    {
+      "animName": "face_timercancel_01",
+      "triggerTime_ms": 0,
+      "Name": "FaceAnimationKeyFrame"
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 627,
+      "Back": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 0,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 1749,
+      "Back": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 627,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "durationTime_ms": 297,
+      "speed": -3,
+      "triggerTime_ms": 627,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -2290
+    },
+    {
+      "durationTime_ms": 33,
+      "speed": -21,
+      "triggerTime_ms": 924,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -10
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": -6,
+      "triggerTime_ms": 957,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": 2
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": -8,
+      "triggerTime_ms": 1023,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -2
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": -7,
+      "triggerTime_ms": 1089,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": 2
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": 219,
+      "triggerTime_ms": 1155,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "TURN_IN_PLACE"
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": -12,
+      "triggerTime_ms": 1221,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": 3
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": -6,
+      "triggerTime_ms": 1287,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -1
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": 6,
+      "triggerTime_ms": 1353,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -1
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": -5,
+      "triggerTime_ms": 1419,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -1
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": 5,
+      "triggerTime_ms": 1485,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -1
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": -4,
+      "triggerTime_ms": 1551,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -1
+    },
+    {
+      "durationTime_ms": 99,
+      "speed": 2,
+      "triggerTime_ms": 1617,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -1
+    },
+    {
+      "durationTime_ms": 99,
+      "speed": -12,
+      "triggerTime_ms": 1716,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -5
+    },
+    {
+      "offset_deg": 0,
+      "Name": "TurnToRecordedHeadingKeyFrame",
+      "numHalfRevs": 0,
+      "durationTime_ms": 850,
+      "speed_degPerSec": -12,
+      "useShortestDir": true,
+      "tolerance_deg": 2,
+      "decel_degPerSec2": 1000,
+      "triggerTime_ms": 1815,
+      "accel_degPerSec2": 1000
+    },
+    {
+      "triggerTime_ms": 0,
+      "Name": "RecordHeadingKeyFrame"
+    }
+  ]
+}

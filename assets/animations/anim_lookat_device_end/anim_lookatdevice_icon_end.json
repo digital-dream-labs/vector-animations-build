@@ -1,0 +1,233 @@
+{
+  "anim_lookatdevice_icon_end": [
+    {
+      "durationTime_ms": 165,
+      "triggerTime_ms": 132,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 40
+    },
+    {
+      "durationTime_ms": 99,
+      "triggerTime_ms": 297,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 34,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 33
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 41,
+      "triggerTime_ms": 198,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 24,
+      "triggerTime_ms": 264,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 19,
+      "triggerTime_ms": 363,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 20,
+      "triggerTime_ms": 429,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 33
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 0.11511819941040156,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.2940609408980634,
+      "leftEye": [
+        8.107326060759803,
+        0.0,
+        1.5989466956463083,
+        1.1453089027930028,
+        0.0,
+        0.10273863432564015,
+        0.16114204868213836,
+        0.16964602839041576,
+        0.18797753857256636,
+        0.3024634874104758,
+        0.3896406046111996,
+        0.14628390954809675,
+        0.20497055418135166,
+        0.06390302611672094,
+        -0.7970601913435532,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.5,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 25.519384034197937,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -9.498619795146482,
+        1.0219525223344306,
+        2.281454865475112,
+        1.205068276740766,
+        0.0,
+        0.10273863432564015,
+        0.16114204868213836,
+        0.16964602839041576,
+        0.18797753857256636,
+        0.33878397795854115,
+        0.4305526893599992,
+        0.14628390954809675,
+        0.20497055418135166,
+        0.08635586717334831,
+        -8.047465301154025,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.5,
+        0.0,
+        0.0,
+        0
+      ],
+      "triggerTime_ms": 132
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Stop__Robot_Vic_Sfx__Attention_Device_Loop_Stop"
+          ],
+          "eventIds": [
+            2479504035
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 198,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Lift_High_Down_Micro_Neutral"
+          ],
+          "eventIds": [
+            2687281750
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 231,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "animName": "face_lookatdevice_end",
+      "triggerTime_ms": 0,
+      "Name": "FaceAnimationKeyFrame"
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 132,
+      "Back": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 0,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 330,
+      "Back": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 132,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

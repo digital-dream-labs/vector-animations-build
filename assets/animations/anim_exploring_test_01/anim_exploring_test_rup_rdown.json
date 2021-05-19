@@ -1,0 +1,466 @@
+{
+  "anim_exploring_test_rup_rdown": [
+    {
+      "durationTime_ms": 132,
+      "speed": 1,
+      "triggerTime_ms": 0,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 2,
+      "triggerTime_ms": 132,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 4,
+      "triggerTime_ms": 264,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 6,
+      "triggerTime_ms": 396,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 8,
+      "triggerTime_ms": 528,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 10,
+      "triggerTime_ms": 660,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 12,
+      "triggerTime_ms": 792,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 14,
+      "triggerTime_ms": 924,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 16,
+      "triggerTime_ms": 1056,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 18,
+      "triggerTime_ms": 1188,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 21,
+      "triggerTime_ms": 1320,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 24,
+      "triggerTime_ms": 1452,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 27,
+      "triggerTime_ms": 1584,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 30,
+      "triggerTime_ms": 1716,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 33,
+      "triggerTime_ms": 1848,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 37,
+      "triggerTime_ms": 1980,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 40,
+      "triggerTime_ms": 2112,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 45,
+      "triggerTime_ms": 2244,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 49,
+      "triggerTime_ms": 2376,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 54,
+      "triggerTime_ms": 2508,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 59,
+      "triggerTime_ms": 2640,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 64,
+      "triggerTime_ms": 2772,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 71,
+      "triggerTime_ms": 2904,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 77,
+      "triggerTime_ms": 3036,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 85,
+      "triggerTime_ms": 3168,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 93,
+      "triggerTime_ms": 3300,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 102,
+      "triggerTime_ms": 3432,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 113,
+      "triggerTime_ms": 3564,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 123,
+      "triggerTime_ms": 3696,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 136,
+      "triggerTime_ms": 3828,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 150,
+      "triggerTime_ms": 3960,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 164,
+      "triggerTime_ms": 4092,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 182,
+      "triggerTime_ms": 4224,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 1320,
+      "speed": 220,
+      "triggerTime_ms": 4356,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 200,
+      "triggerTime_ms": 5676,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 183,
+      "triggerTime_ms": 5808,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 166,
+      "triggerTime_ms": 5940,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 149,
+      "triggerTime_ms": 6072,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 136,
+      "triggerTime_ms": 6204,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 122,
+      "triggerTime_ms": 6336,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 111,
+      "triggerTime_ms": 6468,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 101,
+      "triggerTime_ms": 6600,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 91,
+      "triggerTime_ms": 6732,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 83,
+      "triggerTime_ms": 6864,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 75,
+      "triggerTime_ms": 6996,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 68,
+      "triggerTime_ms": 7128,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 62,
+      "triggerTime_ms": 7260,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 56,
+      "triggerTime_ms": 7392,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 51,
+      "triggerTime_ms": 7524,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 46,
+      "triggerTime_ms": 7656,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 42,
+      "triggerTime_ms": 7788,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 37,
+      "triggerTime_ms": 7920,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 33,
+      "triggerTime_ms": 8052,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 30,
+      "triggerTime_ms": 8184,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 27,
+      "triggerTime_ms": 8316,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 24,
+      "triggerTime_ms": 8448,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 21,
+      "triggerTime_ms": 8580,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 18,
+      "triggerTime_ms": 8712,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 15,
+      "triggerTime_ms": 8844,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 13,
+      "triggerTime_ms": 8976,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 11,
+      "triggerTime_ms": 9108,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 8,
+      "triggerTime_ms": 9240,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 6,
+      "triggerTime_ms": 9372,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 4,
+      "triggerTime_ms": 9504,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 3,
+      "triggerTime_ms": 9636,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 1,
+      "triggerTime_ms": 9768,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "anim_qa_motors_90left_turn_500ms_01": [
+    {
+      "durationTime_ms": 500,
+      "speed": -189,
+      "triggerTime_ms": 330,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "TURN_IN_PLACE"
+    }
+  ]
+}

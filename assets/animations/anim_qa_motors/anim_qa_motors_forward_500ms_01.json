@@ -1,0 +1,11 @@
+{
+  "anim_qa_motors_forward_500ms_01": [
+    {
+      "durationTime_ms": 500,
+      "speed": 91,
+      "triggerTime_ms": 330,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    }
+  ]
+}

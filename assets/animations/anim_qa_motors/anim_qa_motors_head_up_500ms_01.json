@@ -1,0 +1,11 @@
+{
+  "anim_qa_motors_head_up_500ms_01": [
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 45,
+      "triggerTime_ms": 330,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 500
+    }
+  ]
+}

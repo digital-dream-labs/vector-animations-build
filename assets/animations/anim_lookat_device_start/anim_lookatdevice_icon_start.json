@@ -1,0 +1,127 @@
+{
+  "anim_lookatdevice_icon_start": [
+    {
+      "durationTime_ms": 66,
+      "triggerTime_ms": 0,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 36
+    },
+    {
+      "durationTime_ms": 99,
+      "triggerTime_ms": 66,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 3,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 5,
+      "triggerTime_ms": 66,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 33
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 30,
+      "triggerTime_ms": 99,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 34,
+      "triggerTime_ms": 165,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Attention_Device_Loop_Play"
+          ],
+          "eventIds": [
+            1135332675
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 0,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "animName": "face_lookatdevice_start",
+      "triggerTime_ms": 0,
+      "Name": "FaceAnimationKeyFrame"
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 330,
+      "Back": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 0,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "durationTime_ms": 33,
+      "speed": -41,
+      "triggerTime_ms": 0,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": 70
+    },
+    {
+      "durationTime_ms": 99,
+      "speed": 163,
+      "triggerTime_ms": 33,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -1359
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 19,
+      "triggerTime_ms": 132,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -279
+    }
+  ]
+}

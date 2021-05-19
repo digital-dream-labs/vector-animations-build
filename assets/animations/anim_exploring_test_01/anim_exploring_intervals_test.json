@@ -1,0 +1,18 @@
+{
+  "anim_exploring_intervals_test": [
+    {
+      "durationTime_ms": 330,
+      "speed": 220,
+      "triggerTime_ms": 330,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 3333,
+      "speed": 220,
+      "triggerTime_ms": 660,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -72
+    }
+  ]
+}

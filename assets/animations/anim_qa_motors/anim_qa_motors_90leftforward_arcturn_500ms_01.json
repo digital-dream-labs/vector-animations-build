@@ -1,0 +1,11 @@
+{
+  "anim_qa_motors_90leftforward_arcturn_500ms_01": [
+    {
+      "durationTime_ms": 500,
+      "speed": 176,
+      "triggerTime_ms": 330,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": 17
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+
+{
+  "loop" : "doNothing", 
+  "sequence" :[
+    {
+      "segmentType" : "straightThrough",
+      // file names relative to folder
+      "fileList": [
+        "face_snowglobe_getin_01_0000.png",
+        "face_snowglobe_getin_01_0001.png",
+        "face_snowglobe_getin_01_0002.png",
+        "face_snowglobe_getin_01_0003.png",
+        "face_snowglobe_getin_01_0004.png",
+        "face_snowglobe_getin_01_0005.png",
+        "face_snowglobe_getin_01_0006.png",
+        "face_snowglobe_getin_01_0007.png",
+        "face_snowglobe_getin_01_0008.png",
+        "face_snowglobe_getin_01_0009.png",
+        "face_snowglobe_getin_01_0010.png",
+        "face_snowglobe_getin_01_0011.png",
+        "face_snowglobe_getin_01_0012.png",
+        "face_snowglobe_getin_01_0013.png",
+        "face_snowglobe_getin_01_0014.png",
+        "face_snowglobe_getin_01_0015.png"
+
+      ]
+    }
+  ]
+}

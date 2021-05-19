@@ -1,0 +1,26 @@
+
+{
+  "loop" : "doNothing", 
+  "sequence" :[
+    {
+      "segmentType" : "straightThrough",
+      // file names relative to folder
+      "fileList": [
+        "face_howold_fastloop_00000.png",
+        "face_howold_fastloop_00001.png",
+        "face_howold_fastloop_00002.png",
+        "face_howold_fastloop_00003.png",
+        "face_howold_fastloop_00004.png",
+        "face_howold_fastloop_00005.png",
+        "face_howold_fastloop_00006.png",
+        "face_howold_fastloop_00007.png",
+        "face_howold_fastloop_00008.png",
+        "face_howold_fastloop_00009.png",
+        "face_howold_fastloop_00010.png",
+        "face_howold_fastloop_00011.png",
+        "face_howold_fastloop_00012.png"
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "anim_qa_stub": [
+    {
+      "Right": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 4950.0,
+      "Back": [
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "triggerTime_ms": 0.0,
+      "Left": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Right": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 4950.0,
+      "Back": [
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "triggerTime_ms": 4950.0,
+      "Left": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

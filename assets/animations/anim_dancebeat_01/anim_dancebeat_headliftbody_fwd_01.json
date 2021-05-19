@@ -1,0 +1,147 @@
+{
+  "anim_dancebeat_headliftbody_fwd_01": [
+    {
+      "durationTime_ms": 132,
+      "triggerTime_ms": 0,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 45
+    },
+    {
+      "durationTime_ms": 99,
+      "triggerTime_ms": 132,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 31,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 35,
+      "triggerTime_ms": 99,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 7,
+      "triggerTime_ms": 165,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 9,
+      "triggerTime_ms": 264,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0856758574741585,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.086444501055706,
+      "leftEye": [
+        8.107326060759803,
+        1.4579153284395403,
+        1.5174507300664741,
+        1.0749842377386143,
+        0.0,
+        0.6,
+        0.6,
+        0.6504780481534373,
+        0.6504780481534373,
+        0.6934623328067019,
+        0.6861740940728129,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        -0.05330436231248501,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": -8.0706828502482,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        1.5174507300664741,
+        1.144941064931666,
+        0.0,
+        0.6,
+        0.6,
+        0.6504780481534373,
+        0.6504780481534373,
+        0.6934623328067019,
+        0.6861740940728129,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        -0.05330436231248501,
+        0
+      ],
+      "triggerTime_ms": 0
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            0.5,
+            0.5
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Lift_High_Dancing_Big",
+            "Play__Robot_Vic_Sfx__Lift_High_Dancing_Small"
+          ],
+          "eventIds": [
+            1201929830,
+            992178953
+          ],
+          "volumes": [
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 0,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "event_id": "DANCE_BEAT_SYNC",
+      "triggerTime_ms": 231,
+      "Name": "EventKeyFrame"
+    },
+    {
+      "durationTime_ms": 165,
+      "speed": 95,
+      "triggerTime_ms": 33,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    }
+  ]
+}

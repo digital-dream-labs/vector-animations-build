@@ -1,0 +1,25 @@
+{
+  "anim_exploring_intervals_4s": [
+    {
+      "durationTime_ms": 3960,
+      "speed": 220,
+      "triggerTime_ms": 0,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -75
+    },
+    {
+      "durationTime_ms": 3960,
+      "speed": 130,
+      "triggerTime_ms": 7920,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -75
+    },
+    {
+      "durationTime_ms": 3960,
+      "speed": 51,
+      "triggerTime_ms": 15840,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": -75
+    }
+  ]
+}

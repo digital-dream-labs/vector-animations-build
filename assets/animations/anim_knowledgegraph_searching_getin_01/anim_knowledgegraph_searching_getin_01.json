@@ -1,0 +1,73 @@
+{
+  "anim_knowledgegraph_searching_getin_01": [
+    {
+      "durationTime_ms": 66,
+      "triggerTime_ms": 99,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 38
+    },
+    {
+      "durationTime_ms": 66,
+      "triggerTime_ms": 165,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 35,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 33
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 25,
+      "triggerTime_ms": 33,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 35,
+      "triggerTime_ms": 99,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 165
+    },
+    {
+      "audioName": [
+        "Play__Robot_Vic_Sfx__Knowledge_Graph_Searching_Loop_Start"
+      ],
+      "Name": "RobotAudioKeyFrame",
+      "probability": [
+        1.0
+      ],
+      "hasAlts": true,
+      "volume": 1.0,
+      "audioEventId": [
+        761202130
+      ],
+      "triggerTime_ms": 0
+    },
+    {
+      "animName": "face_knowledgegraph_searching_getin",
+      "triggerTime_ms": 0,
+      "Name": "FaceAnimationKeyFrame"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 31,
+      "triggerTime_ms": 66,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 66,
+      "speed": -42,
+      "triggerTime_ms": 198,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    }
+  ]
+}

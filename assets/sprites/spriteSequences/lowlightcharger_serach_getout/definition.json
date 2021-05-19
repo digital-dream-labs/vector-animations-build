@@ -1,0 +1,67 @@
+
+{
+  "loop" : "doNothing", 
+  "sequence" :[
+    {
+      "segmentType" : "straightThrough",
+      // file names relative to folder
+      "fileList": [
+        "lowlightcharger_serach_getout_00000.png",
+        "lowlightcharger_serach_getout_00001.png",
+        "lowlightcharger_serach_getout_00002.png",
+        "lowlightcharger_serach_getout_00003.png",
+        "lowlightcharger_serach_getout_00004.png",
+        "lowlightcharger_serach_getout_00005.png",
+        "lowlightcharger_serach_getout_00006.png",
+        "lowlightcharger_serach_getout_00007.png",
+        "lowlightcharger_serach_getout_00008.png",
+        "lowlightcharger_serach_getout_00009.png",
+        "lowlightcharger_serach_getout_00010.png",
+        "lowlightcharger_serach_getout_00011.png",
+        "lowlightcharger_serach_getout_00012.png",
+        "lowlightcharger_serach_getout_00013.png",
+        "lowlightcharger_serach_getout_00014.png",
+        "lowlightcharger_serach_getout_00015.png",
+        "lowlightcharger_serach_getout_00016.png",
+        "lowlightcharger_serach_getout_00017.png",
+        "lowlightcharger_serach_getout_00018.png",
+        "lowlightcharger_serach_getout_00019.png",
+        "lowlightcharger_serach_getout_00020.png",
+        "lowlightcharger_serach_getout_00021.png",
+        "lowlightcharger_serach_getout_00022.png",
+        "lowlightcharger_serach_getout_00023.png",
+        "lowlightcharger_serach_getout_00024.png",
+        "lowlightcharger_serach_getout_00025.png",
+        "lowlightcharger_serach_getout_00026.png",
+        "lowlightcharger_serach_getout_00027.png",
+        "lowlightcharger_serach_getout_00028.png",
+        "lowlightcharger_serach_getout_00029.png",
+        "lowlightcharger_serach_getout_00030.png",
+        "lowlightcharger_serach_getout_00031.png",
+        "lowlightcharger_serach_getout_00032.png",
+        "lowlightcharger_serach_getout_00033.png",
+        "lowlightcharger_serach_getout_00034.png",
+        "lowlightcharger_serach_getout_00035.png",
+        "lowlightcharger_serach_getout_00036.png",
+        "lowlightcharger_serach_getout_00037.png",
+        "lowlightcharger_serach_getout_00038.png",
+        "lowlightcharger_serach_getout_00039.png",
+        "lowlightcharger_serach_getout_00040.png",
+        "lowlightcharger_serach_getout_00041.png",
+        "lowlightcharger_serach_getout_00042.png",
+        "lowlightcharger_serach_getout_00043.png",
+        "lowlightcharger_serach_getout_00044.png",
+        "lowlightcharger_serach_getout_00045.png",
+        "lowlightcharger_serach_getout_00046.png",
+        "lowlightcharger_serach_getout_00047.png",
+        "lowlightcharger_serach_getout_00048.png",
+        "lowlightcharger_serach_getout_00049.png",
+        "lowlightcharger_serach_getout_00050.png",
+        "lowlightcharger_serach_getout_00051.png",
+        "lowlightcharger_serach_getout_00052.png",
+        "lowlightcharger_serach_getout_00053.png"
+
+      ]
+    }
+  ]
+}

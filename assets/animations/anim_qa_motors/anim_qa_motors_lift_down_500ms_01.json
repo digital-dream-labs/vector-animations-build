@@ -1,0 +1,18 @@
+{
+  "anim_qa_motors_lift_down_500ms_01": [
+    {
+      "durationTime_ms": 330,
+      "triggerTime_ms": 0,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 92
+    },
+    {
+      "durationTime_ms": 500,
+      "triggerTime_ms": 330,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32
+    }
+  ]
+}
