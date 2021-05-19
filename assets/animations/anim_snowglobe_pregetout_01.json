@@ -1,0 +1,406 @@
+{
+  clips: [
+    {
+      Name: "anim_snowglobe_pregetout_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 165,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 297,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 396,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 495,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 594,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 693,
+            durationTime_ms: 165,
+            angle_deg: 5
+          },
+          {
+            triggerTime_ms: 858,
+            durationTime_ms: 165,
+            angle_deg: -13
+          },
+          {
+            triggerTime_ms: 1023,
+            durationTime_ms: 132,
+            angle_deg: -17
+          },
+          {
+            triggerTime_ms: 1155,
+            durationTime_ms: 99,
+            angle_deg: -12
+          },
+          {
+            triggerTime_ms: 1881,
+            durationTime_ms: 66,
+            angle_deg: -14
+          },
+          {
+            triggerTime_ms: 1947,
+            durationTime_ms: 99,
+            angle_deg: -9
+          },
+          {
+            triggerTime_ms: 2145,
+            durationTime_ms: 66,
+            angle_deg: -13
+          },
+          {
+            triggerTime_ms: 2211,
+            durationTime_ms: 132,
+            angle_deg: -8
+          },
+          {
+            triggerTime_ms: 2343,
+            durationTime_ms: 66,
+            angle_deg: -7
+          },
+          {
+            triggerTime_ms: 2607,
+            durationTime_ms: 66,
+            angle_deg: -17
+          },
+          {
+            triggerTime_ms: 2673,
+            durationTime_ms: 99,
+            angle_deg: -5
+          },
+          {
+            triggerTime_ms: 2772,
+            durationTime_ms: 66,
+            angle_deg: -4
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            eventGroups: [
+              {
+                eventIds: [
+                  3179862666
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 33,
+            eventGroups: [
+              {
+                eventIds: [
+                  711426914
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 825,
+            eventGroups: [
+              {
+                eventIds: [
+                  1755199022
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 858,
+            eventGroups: [
+              {
+                eventIds: [
+                  2675710110
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 891,
+            eventGroups: [
+              {
+                eventIds: [
+                  992178953
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 924,
+            eventGroups: [
+              {
+                eventIds: [
+                  1826579815
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 957,
+            eventGroups: [
+              {
+                eventIds: [
+                  2028807349
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 2574,
+            eventGroups: [
+              {
+                eventIds: [
+                  16087513
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 792,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 792,
+            durationTime_ms: 1320,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 2112,
+            durationTime_ms: 165,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 2277,
+            durationTime_ms: 66,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 2343,
+            durationTime_ms: 726,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_snowglobe_pregetout_01"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 924,
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: -57
+          },
+          {
+            triggerTime_ms: 1023,
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: -34
+          },
+          {
+            triggerTime_ms: 1122,
+            durationTime_ms: 165,
+            radius_mm: "STRAIGHT",
+            speed: -13
+          },
+          {
+            triggerTime_ms: 2640,
+            durationTime_ms: 132,
+            radius_mm: "147",
+            speed: -51
+          },
+          {
+            triggerTime_ms: 2772,
+            durationTime_ms: 99,
+            radius_mm: "147",
+            speed: -31
+          },
+          {
+            triggerTime_ms: 2871,
+            durationTime_ms: 99,
+            radius_mm: "147",
+            speed: -13
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

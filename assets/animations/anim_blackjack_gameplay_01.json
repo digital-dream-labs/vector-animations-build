@@ -1,0 +1,3720 @@
+{
+  clips: [
+    {
+      Name: "anim_blackjack_deal_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: 45
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 66,
+            angle_deg: 31
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 33,
+            angle_deg: 39
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 132,
+            eventGroups: [
+              {
+                eventIds: [
+                  3691452503
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 462,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+          {
+            triggerTime_ms: 264,
+            event_id: "DEAL_CARDS_BEGIN"
+          }
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_blackjack_goodluck_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            height_mm: 43
+          },
+          {
+            triggerTime_ms: 297,
+            durationTime_ms: 33,
+            height_mm: 45
+          },
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 66,
+            height_mm: 32
+          },
+          {
+            triggerTime_ms: 429,
+            durationTime_ms: 99,
+            height_mm: 43
+          },
+          {
+            triggerTime_ms: 528,
+            durationTime_ms: 33,
+            height_mm: 45
+          },
+          {
+            triggerTime_ms: 561,
+            durationTime_ms: 66,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 660,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 132,
+            angle_deg: 16
+          },
+          {
+            triggerTime_ms: 132,
+            durationTime_ms: 66,
+            angle_deg: 14
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            angle_deg: 34
+          },
+          {
+            triggerTime_ms: 297,
+            durationTime_ms: 66,
+            angle_deg: 38
+          },
+          {
+            triggerTime_ms: 363,
+            durationTime_ms: 66,
+            angle_deg: 39
+          },
+          {
+            triggerTime_ms: 429,
+            durationTime_ms: 33,
+            angle_deg: 39
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 33,
+            eventGroups: [
+              {
+                eventIds: [
+                  3309105517
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 231,
+            eventGroups: [
+              {
+                eventIds: [
+                  2518881836
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 165,
+            radius_mm: "STRAIGHT",
+            speed: -61
+          },
+          {
+            triggerTime_ms: 231,
+            durationTime_ms: 132,
+            radius_mm: "STRAIGHT",
+            speed: 67
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_blackjack_speech_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 495,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 495,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 231,
+            angle_deg: 18
+          },
+          {
+            triggerTime_ms: 231,
+            durationTime_ms: 198,
+            angle_deg: 39
+          }
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 495,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: -83
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 132,
+            radius_mm: "STRAIGHT",
+            speed: -45
+          },
+          {
+            triggerTime_ms: 231,
+            durationTime_ms: 132,
+            radius_mm: "STRAIGHT",
+            speed: 86
+          },
+          {
+            triggerTime_ms: 363,
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: 27
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_blackjack_ok_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 99,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 99,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 198,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 297,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 396,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 495,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 660,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 726,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: 40
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 99,
+            angle_deg: 43
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            angle_deg: 45
+          },
+          {
+            triggerTime_ms: 297,
+            durationTime_ms: 99,
+            angle_deg: 3
+          },
+          {
+            triggerTime_ms: 396,
+            durationTime_ms: 99,
+            angle_deg: -4
+          },
+          {
+            triggerTime_ms: 495,
+            durationTime_ms: 165,
+            angle_deg: 39
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            eventGroups: [
+              {
+                eventIds: [
+                  83693475
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 198,
+            eventGroups: [
+              {
+                eventIds: [
+                  3271727348
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 726,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            durationTime_ms: 66,
+            radius_mm: "STRAIGHT"
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: -14
+          },
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: -42
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: -20
+          },
+          {
+            triggerTime_ms: 363,
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: 108
+          },
+          {
+            triggerTime_ms: 462,
+            durationTime_ms: 99,
+            radius_mm: "STRAIGHT",
+            speed: 17
+          },
+          {
+            triggerTime_ms: 561,
+            durationTime_ms: 165,
+            radius_mm: "STRAIGHT",
+            speed: -29
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_blackjack_idle_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 264,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 264,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 4950,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 6270,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 165,
+            angle_deg: 39
+          },
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 264,
+            angle_deg: 29
+          },
+          {
+            triggerTime_ms: 429,
+            durationTime_ms: 165,
+            angle_deg: 31
+          },
+          {
+            triggerTime_ms: 4158,
+            durationTime_ms: 198,
+            angle_deg: 25
+          },
+          {
+            triggerTime_ms: 4356,
+            durationTime_ms: 231,
+            angle_deg: 39
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 264,
+            eventGroups: [
+              {
+                eventIds: [
+                  2558890771
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 4224,
+            eventGroups: [
+              {
+                eventIds: [
+                  2558890771
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 264,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 4686,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 4950,
+            durationTime_ms: 1320,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 264,
+            radius_mm: "TURN_IN_PLACE",
+            speed: 40
+          },
+          {
+            triggerTime_ms: 4224,
+            durationTime_ms: 297,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -31
+          },
+          {
+            triggerTime_ms: 4521,
+            durationTime_ms: 165,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -9
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_blackjack_spread_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: 23
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 165,
+            angle_deg: 42
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 99,
+            angle_deg: 30
+          },
+          {
+            triggerTime_ms: 363,
+            durationTime_ms: 99,
+            angle_deg: 39
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            eventGroups: [
+              {
+                eventIds: [
+                  3797626084
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 462,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            durationTime_ms: 66,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -64
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 165,
+            radius_mm: "TURN_IN_PLACE",
+            speed: 157
+          },
+          {
+            triggerTime_ms: 231,
+            durationTime_ms: 132,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -226
+          },
+          {
+            triggerTime_ms: 363,
+            durationTime_ms: 99,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -112
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_blackjack_swipe_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 198,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 198,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 429,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 462,
+            faceCenterY: 16.517719,
+            faceScaleX: 1.488889,
+            faceScaleY: 0.094815,
+            leftEye: [
+              16.118431,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.361337,
+              0.361337,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.361337,
+              0.361337,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.588739,
+              0.0
+            ],
+            rightEye: [
+              -17.001041,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.361337,
+              0.361337,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.361337,
+              0.361337,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.588739,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 528,
+            faceCenterY: 16.517719,
+            faceScaleX: 1.097817,
+            faceScaleY: 0.094815,
+            leftEye: [
+              16.118431,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.361337,
+              0.361337,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.361337,
+              0.361337,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.588739,
+              0.0
+            ],
+            rightEye: [
+              -17.001041,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.361337,
+              0.361337,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.361337,
+              0.361337,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.588739,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 594,
+            faceCenterY: 2.871761,
+            faceScaleX: 0.916134,
+            faceScaleY: 0.598824,
+            leftEye: [
+              12.695307,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.374845,
+              0.374845,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.374845,
+              0.374845,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.428769,
+              0.0
+            ],
+            rightEye: [
+              -12.481611,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.374845,
+              0.374845,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.374845,
+              0.374845,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.428769,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 660,
+            faceCenterY: -10.232199,
+            faceScaleX: 0.895878,
+            faceScaleY: 1.066667,
+            leftEye: [
+              11.798936,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.479874,
+              0.0
+            ],
+            rightEye: [
+              -11.032034,
+              0.0,
+              1.550761,
+              1.044435,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.479874,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 693,
+            faceCenterY: -13.860394,
+            faceScaleX: 0.936921,
+            faceScaleY: 1.080455,
+            leftEye: [
+              9.953131,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.494024,
+              0.0
+            ],
+            rightEye: [
+              -9.174013,
+              0.0,
+              1.550761,
+              1.044435,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.494024,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 726,
+            faceCenterY: -11.861812,
+            faceScaleX: 1.013144,
+            faceScaleY: 1.082425,
+            leftEye: [
+              9.431822,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.422789,
+              0.0
+            ],
+            rightEye: [
+              -8.649253,
+              0.0,
+              1.550761,
+              1.044435,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.422789,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 759,
+            faceCenterY: -7.539007,
+            faceScaleX: 1.08099,
+            faceScaleY: 1.061055,
+            leftEye: [
+              9.359365,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.268712,
+              0.0
+            ],
+            rightEye: [
+              -8.565069,
+              0.0,
+              1.550761,
+              1.044435,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.268712,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 792,
+            faceCenterY: -2.914014,
+            faceScaleX: 1.118562,
+            faceScaleY: 1.013251,
+            leftEye: [
+              9.721643,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.528556,
+              0.528556,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.528556,
+              0.528556,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.078792,
+              0.0
+            ],
+            rightEye: [
+              -8.985985,
+              0.0,
+              1.550761,
+              1.044435,
+              0.0,
+              0.528556,
+              0.528556,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.528556,
+              0.528556,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.078792,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 825,
+            faceCenterY: 1.219194,
+            faceScaleX: 1.097262,
+            faceScaleY: 0.964173,
+            leftEye: [
+              10.08392,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.457112,
+              0.457112,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.457112,
+              0.457112,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.12805,
+              0.0
+            ],
+            rightEye: [
+              -9.4069,
+              0.0,
+              1.550761,
+              1.044435,
+              0.0,
+              0.457112,
+              0.457112,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.457112,
+              0.457112,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.12805,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 858,
+            faceCenterY: 3.957145,
+            faceScaleX: 1.032584,
+            faceScaleY: 0.933154,
+            leftEye: [
+              9.919853,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.468972,
+              0.468972,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.468972,
+              0.468972,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.141044,
+              0.0
+            ],
+            rightEye: [
+              -9.233344,
+              0.0,
+              1.550761,
+              1.044435,
+              0.0,
+              0.468972,
+              0.468972,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.468972,
+              0.468972,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.141044,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 924,
+            faceCenterY: -12.844499,
+            faceScaleX: 0.925429,
+            faceScaleY: 1.076594,
+            leftEye: [
+              10.469956,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.328549,
+              0.0
+            ],
+            rightEye: [
+              -9.694259,
+              0.0,
+              1.550761,
+              1.044435,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.328549,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 957,
+            faceCenterY: -8.487779,
+            faceScaleX: 0.869563,
+            faceScaleY: 1.043378,
+            leftEye: [
+              9.234049,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.549488,
+              0.549488,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.549488,
+              0.549488,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.443447,
+              0.0
+            ],
+            rightEye: [
+              -8.507877,
+              0.0,
+              1.527192,
+              1.093819,
+              0.0,
+              0.549488,
+              0.549488,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.549488,
+              0.549488,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.443447,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 990,
+            faceCenterY: -10.270456,
+            faceScaleX: 0.89304,
+            faceScaleY: 1.069641,
+            leftEye: [
+              9.192327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.574296,
+              0.574296,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.574296,
+              0.574296,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.366068,
+              0.0
+            ],
+            rightEye: [
+              -8.463741,
+              0.0,
+              1.527192,
+              1.093819,
+              0.0,
+              0.574296,
+              0.574296,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.574296,
+              0.574296,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.366068,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1056,
+            faceCenterY: -7.006877,
+            faceScaleX: 0.94675,
+            faceScaleY: 1.084027,
+            leftEye: [
+              9.283187,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.59743,
+              0.59743,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.59743,
+              0.59743,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.209032,
+              0.0
+            ],
+            rightEye: [
+              -8.559857,
+              0.0,
+              1.527192,
+              1.093819,
+              0.0,
+              0.59743,
+              0.59743,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.59743,
+              0.59743,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.209032,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1089,
+            faceCenterY: -5.864625,
+            faceScaleX: 0.950505,
+            faceScaleY: 1.08458,
+            leftEye: [
+              9.283187,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.59743,
+              0.59743,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.59743,
+              0.59743,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.209032,
+              0.0
+            ],
+            rightEye: [
+              -8.559857,
+              0.0,
+              1.527192,
+              1.093819,
+              0.0,
+              0.59743,
+              0.59743,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.59743,
+              0.59743,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.209032,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1353,
+            faceCenterY: -5.235534,
+            faceScaleX: 0.95689,
+            faceScaleY: 1.088441,
+            leftEye: [
+              9.293283,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.186609,
+              0.0
+            ],
+            rightEye: [
+              -8.570537,
+              0.0,
+              1.527192,
+              1.093819,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.186609,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1419,
+            faceCenterY: -1.293928,
+            faceScaleX: 1.152451,
+            faceScaleY: 0.70368,
+            leftEye: [
+              10.446033,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.381841,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.381841,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.046119,
+              0.0
+            ],
+            rightEye: [
+              -9.789955,
+              0.0,
+              1.529832,
+              1.079965,
+              0.0,
+              0.381841,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.381841,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.046119,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1452,
+            faceCenterY: 0.171333,
+            faceScaleX: 1.225149,
+            faceScaleY: 0.560648,
+            leftEye: [
+              10.874558,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.300742,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.300742,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.006107,
+              0.0
+            ],
+            rightEye: [
+              -10.243264,
+              0.0,
+              1.530814,
+              1.074814,
+              0.0,
+              0.300742,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.300742,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.006107,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1485,
+            faceCenterY: -1.899068,
+            faceScaleX: 0.988814,
+            faceScaleY: 0.835407,
+            leftEye: [
+              10.08392,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.067688,
+              0.0
+            ],
+            rightEye: [
+              -9.4069,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.067688,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1518,
+            faceCenterY: -3.969468,
+            faceScaleX: 0.996145,
+            faceScaleY: 1.110166,
+            leftEye: [
+              9.603608,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.141483,
+              0.0
+            ],
+            rightEye: [
+              -8.898809,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.141483,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1584,
+            faceCenterY: -1.397253,
+            faceScaleX: 1.017091,
+            faceScaleY: 1.038779,
+            leftEye: [
+              8.787077,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.049802,
+              0.0
+            ],
+            rightEye: [
+              -8.035055,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.049802,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 1650,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 198,
+            angle_deg: 43
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 165,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 363,
+            durationTime_ms: 165,
+            angle_deg: -12
+          },
+          {
+            triggerTime_ms: 528,
+            durationTime_ms: 99,
+            angle_deg: 23
+          },
+          {
+            triggerTime_ms: 627,
+            durationTime_ms: 99,
+            angle_deg: 31
+          },
+          {
+            triggerTime_ms: 726,
+            durationTime_ms: 198
+          },
+          {
+            triggerTime_ms: 1386,
+            durationTime_ms: 66,
+            angle_deg: -6
+          },
+          {
+            triggerTime_ms: 1452,
+            durationTime_ms: 132,
+            angle_deg: 2
+          },
+          {
+            triggerTime_ms: 1584,
+            durationTime_ms: 66
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 33,
+            eventGroups: [
+              {
+                eventIds: [
+                  1393504716
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 264,
+            eventGroups: [
+              {
+                eventIds: [
+                  3428971105
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 561,
+            eventGroups: [
+              {
+                eventIds: [
+                  2640434952
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 1386,
+            eventGroups: [
+              {
+                eventIds: [
+                  2558890771
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 198,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 1452,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+          {
+            triggerTime_ms: 429,
+            event_id: "SWIPE_CARDS_BEGIN"
+          }
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 132,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -60
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 165,
+            radius_mm: "TURN_IN_PLACE",
+            speed: 179
+          },
+          {
+            triggerTime_ms: 429,
+            durationTime_ms: 132,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -226
+          },
+          {
+            triggerTime_ms: 561,
+            durationTime_ms: 99,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -112
+          },
+          {
+            triggerTime_ms: 1386,
+            durationTime_ms: 66,
+            radius_mm: "STRAIGHT",
+            speed: -46
+          },
+          {
+            triggerTime_ms: 1452,
+            durationTime_ms: 132,
+            radius_mm: "STRAIGHT",
+            speed: 28
+          },
+          {
+            triggerTime_ms: 1584,
+            durationTime_ms: 66,
+            radius_mm: "STRAIGHT",
+            speed: -9
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_blackjack_speech_tts_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 660,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 660,
+            faceScaleX: 0.0,
+            faceScaleY: 0.0,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 132,
+            angle_deg: 39
+          }
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 660,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 660,
+            durationTime_ms: 2310,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

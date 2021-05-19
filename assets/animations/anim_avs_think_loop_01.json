@@ -1,0 +1,100 @@
+{
+  clips: [
+    {
+      Name: "anim_avs_think_loop_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            triggerTime_ms: 297,
+            durationTime_ms: 132,
+            angle_deg: 33
+          }
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_avs_think_loop"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  clips: [
+    {
+      Name: "anim_qa_motors_lift_up_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 330,
+            height_mm: 32
+          },
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            height_mm: 92
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_lift_down_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 330,
+            height_mm: 92
+          },
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_head_up_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            angle_deg: 45
+          }
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_head_down_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            angle_deg: -22
+          }
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_90left_turn_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -189
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_90right_turn_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 396,
+            durationTime_ms: 500,
+            radius_mm: "TURN_IN_PLACE",
+            speed: 189
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_forward_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            radius_mm: "STRAIGHT",
+            speed: 91
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_backwards_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            radius_mm: "STRAIGHT",
+            speed: -91
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_90leftforward_arcturn_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            radius_mm: "17",
+            speed: 176
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_90leftbackward_arcturn_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            radius_mm: "17",
+            speed: -176
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_90rightforward_arcturn_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            radius_mm: "-17",
+            speed: 176
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_qa_motors_90rightbackward_arcturn_500ms_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 500,
+            radius_mm: "-17",
+            speed: -176
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  clips: [
+    {
+      Name: "anim_lookatdevice_icon_start",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 66,
+            height_mm: 36
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 99,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 66,
+            angle_deg: 3
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 33,
+            angle_deg: 5
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            angle_deg: 30
+          },
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 66,
+            angle_deg: 34
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            eventGroups: [
+              {
+                eventIds: [
+                  1135332675
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 330,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_lookatdevice_start"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            durationTime_ms: 33,
+            radius_mm: "70",
+            speed: -41
+          },
+          {
+            triggerTime_ms: 33,
+            durationTime_ms: 99,
+            radius_mm: "-1359",
+            speed: 163
+          },
+          {
+            triggerTime_ms: 132,
+            durationTime_ms: 132,
+            radius_mm: "-279",
+            speed: 19
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

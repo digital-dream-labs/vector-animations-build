@@ -1,0 +1,114 @@
+{
+  clips: [
+    {
+      Name: "anim_neutral_eyes_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            leftEye: [
+              8.107327,
+              0.0,
+              1.517451,
+              1.145309,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 33,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

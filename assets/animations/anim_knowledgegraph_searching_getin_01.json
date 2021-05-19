@@ -1,0 +1,88 @@
+{
+  clips: [
+    {
+      Name: "anim_knowledgegraph_searching_getin_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            height_mm: 38
+          },
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 66,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 33,
+            angle_deg: 35
+          },
+          {
+            triggerTime_ms: 33,
+            durationTime_ms: 66,
+            angle_deg: 25
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 165,
+            angle_deg: 35
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            eventGroups: [
+              {
+                eventIds: [
+                  761202130
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_knowledgegraph_searching_getin"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 132,
+            radius_mm: "STRAIGHT",
+            speed: 31
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 66,
+            radius_mm: "STRAIGHT",
+            speed: -42
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

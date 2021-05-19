@@ -1,0 +1,335 @@
+{
+  clips: [
+    {
+      Name: "anim_timercancel_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            triggerTime_ms: 627,
+            durationTime_ms: 363,
+            height_mm: 52
+          },
+          {
+            triggerTime_ms: 990,
+            durationTime_ms: 99,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 198
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            angle_deg: -9
+          },
+          {
+            triggerTime_ms: 297,
+            durationTime_ms: 99,
+            angle_deg: 12
+          },
+          {
+            triggerTime_ms: 627,
+            durationTime_ms: 99,
+            angle_deg: 21
+          },
+          {
+            triggerTime_ms: 726,
+            durationTime_ms: 99,
+            angle_deg: -6
+          },
+          {
+            triggerTime_ms: 825,
+            durationTime_ms: 99,
+            angle_deg: -13
+          },
+          {
+            triggerTime_ms: 924,
+            durationTime_ms: 66,
+            angle_deg: -21
+          },
+          {
+            triggerTime_ms: 990,
+            durationTime_ms: 66,
+            angle_deg: 15
+          },
+          {
+            triggerTime_ms: 1056,
+            durationTime_ms: 33,
+            angle_deg: -9
+          },
+          {
+            triggerTime_ms: 1089,
+            durationTime_ms: 66,
+            angle_deg: 15
+          },
+          {
+            triggerTime_ms: 1155,
+            durationTime_ms: 66,
+            angle_deg: -4
+          },
+          {
+            triggerTime_ms: 1221,
+            durationTime_ms: 66,
+            angle_deg: 15
+          },
+          {
+            triggerTime_ms: 1287,
+            durationTime_ms: 66,
+            angle_deg: -9
+          },
+          {
+            triggerTime_ms: 1353,
+            durationTime_ms: 66,
+            angle_deg: 13
+          },
+          {
+            triggerTime_ms: 1419,
+            durationTime_ms: 99,
+            angle_deg: -15
+          },
+          {
+            triggerTime_ms: 1518,
+            durationTime_ms: 66,
+            angle_deg: 17
+          },
+          {
+            triggerTime_ms: 1584,
+            durationTime_ms: 66,
+            angle_deg: -10
+          },
+          {
+            triggerTime_ms: 1650,
+            durationTime_ms: 66,
+            angle_deg: 20
+          },
+          {
+            triggerTime_ms: 1716,
+            durationTime_ms: 66
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 330,
+            eventGroups: [
+              {
+                eventIds: [
+                  158400132
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 561,
+            eventGroups: [
+              {
+                eventIds: [
+                  2558890771
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 792,
+            eventGroups: [
+              {
+                eventIds: [
+                  3588927098
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 1056,
+            eventGroups: [
+              {
+                eventIds: [
+                  1848638287
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 627,
+            Front: [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 627,
+            durationTime_ms: 1749,
+            Front: [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_timercancel_01"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 627,
+            durationTime_ms: 297,
+            radius_mm: "-2290",
+            speed: -3
+          },
+          {
+            triggerTime_ms: 924,
+            durationTime_ms: 33,
+            radius_mm: "-10",
+            speed: -21
+          },
+          {
+            triggerTime_ms: 957,
+            durationTime_ms: 66,
+            radius_mm: "2",
+            speed: -6
+          },
+          {
+            triggerTime_ms: 1023,
+            durationTime_ms: 66,
+            radius_mm: "-2",
+            speed: -8
+          },
+          {
+            triggerTime_ms: 1089,
+            durationTime_ms: 66,
+            radius_mm: "2",
+            speed: -7
+          },
+          {
+            triggerTime_ms: 1155,
+            durationTime_ms: 66,
+            radius_mm: "TURN_IN_PLACE",
+            speed: 219
+          },
+          {
+            triggerTime_ms: 1221,
+            durationTime_ms: 66,
+            radius_mm: "3",
+            speed: -12
+          },
+          {
+            triggerTime_ms: 1287,
+            durationTime_ms: 66,
+            radius_mm: "-1",
+            speed: -6
+          },
+          {
+            triggerTime_ms: 1353,
+            durationTime_ms: 66,
+            radius_mm: "-1",
+            speed: 6
+          },
+          {
+            triggerTime_ms: 1419,
+            durationTime_ms: 66,
+            radius_mm: "-1",
+            speed: -5
+          },
+          {
+            triggerTime_ms: 1485,
+            durationTime_ms: 66,
+            radius_mm: "-1",
+            speed: 5
+          },
+          {
+            triggerTime_ms: 1551,
+            durationTime_ms: 66,
+            radius_mm: "-1",
+            speed: -4
+          },
+          {
+            triggerTime_ms: 1617,
+            durationTime_ms: 99,
+            radius_mm: "-1",
+            speed: 2
+          },
+          {
+            triggerTime_ms: 1716,
+            durationTime_ms: 99,
+            radius_mm: "-5",
+            speed: -12
+          }
+        ],
+        RecordHeadingKeyFrame: [
+          {
+          }
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+          {
+            triggerTime_ms: 1815,
+            durationTime_ms: 850,
+            speed_degPerSec: -12,
+            useShortestDir: true
+          }
+        ]
+      }
+    }
+  ]
+}

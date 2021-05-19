@@ -1,0 +1,81 @@
+{
+  clips: [
+    {
+      Name: "anim_qa_stub",
+      keyframes: {
+        LiftHeightKeyFrame: [
+
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 4950,
+            Front: [
+              1.0,
+              1.0,
+              1.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              1.0,
+              0.0,
+              1.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 4950,
+            durationTime_ms: 4950,
+            Front: [
+              1.0,
+              1.0,
+              1.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              1.0,
+              0.0,
+              1.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

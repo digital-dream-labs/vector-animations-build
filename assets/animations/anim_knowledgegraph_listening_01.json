@@ -1,0 +1,64 @@
+{
+  clips: [
+    {
+      Name: "anim_knowledgegraph_listening_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            angle_deg: 35
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            eventGroups: [
+              {
+                eventIds: [
+                  2452862642
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            triggerTime_ms: 33,
+            animName: "face_knowledgegraph_listening"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

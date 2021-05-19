@@ -1,0 +1,11 @@
+{
+  "Animations": [
+    {
+      "Name": "anim_rtpmemorymatch_request_02",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    }
+  ]
+}
+

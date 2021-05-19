@@ -1,0 +1,97 @@
+{
+  clips: [
+    {
+      Name: "anim_message_tts",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 66,
+            height_mm: 37
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 66,
+            angle_deg: 29
+          }
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 66,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 924,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_messaging_tts"
+          },
+          {
+            triggerTime_ms: 66,
+            animName: "face_messaging_tts"
+          },
+          {
+            triggerTime_ms: 990,
+            animName: "face_messaging_tts"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

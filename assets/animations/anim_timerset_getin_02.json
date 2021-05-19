@@ -1,0 +1,164 @@
+{
+  clips: [
+    {
+      Name: "anim_timerset_getin_02",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 264,
+            height_mm: 32
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 66,
+            height_mm: 40
+          },
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 66,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: -7
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 99,
+            angle_deg: 9
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 132,
+            angle_deg: -18
+          },
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 99,
+            angle_deg: -22
+          },
+          {
+            triggerTime_ms: 429,
+            durationTime_ms: 132,
+            angle_deg: 36
+          },
+          {
+            triggerTime_ms: 561,
+            durationTime_ms: 99,
+            angle_deg: 27
+          },
+          {
+            triggerTime_ms: 660,
+            durationTime_ms: 99,
+            angle_deg: 35
+          },
+          {
+            triggerTime_ms: 759,
+            durationTime_ms: 66,
+            angle_deg: 26
+          },
+          {
+            triggerTime_ms: 825,
+            durationTime_ms: 66,
+            angle_deg: 30
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 33,
+            eventGroups: [
+              {
+                eventIds: [
+                  3743401560
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 429,
+            eventGroups: [
+              {
+                eventIds: [
+                  2198114280
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 891,
+            Front: [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_timerset_getin_02"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+          {
+            durationTime_ms: 198,
+            radius_mm: "TURN_IN_PLACE",
+            speed: 66
+          },
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 165,
+            radius_mm: "TURN_IN_PLACE",
+            speed: -173
+          },
+          {
+            triggerTime_ms: 495,
+            durationTime_ms: 132,
+            radius_mm: "TURN_IN_PLACE",
+            speed: 222
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

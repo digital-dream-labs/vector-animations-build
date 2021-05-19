@@ -1,0 +1,10 @@
+{
+  "Animations": [
+    {
+      "Name": "anim_turn_to_motion_pounce_right_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    }
+  ]
+}

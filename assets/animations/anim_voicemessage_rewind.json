@@ -1,0 +1,118 @@
+{
+  clips: [
+    {
+      Name: "anim_message_rewind_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 66,
+            height_mm: 37
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 33,
+            angle_deg: 29
+          },
+          {
+            triggerTime_ms: 33,
+            durationTime_ms: 66,
+            angle_deg: 22
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            angle_deg: 29
+          },
+          {
+            triggerTime_ms: 1716,
+            durationTime_ms: 99,
+            angle_deg: 22
+          },
+          {
+            triggerTime_ms: 1815,
+            durationTime_ms: 66,
+            angle_deg: 29
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 33,
+            eventGroups: [
+              {
+                eventIds: [
+                  3376462589
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 1749,
+            eventGroups: [
+              {
+                eventIds: [
+                  3376462589
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 1980,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_messaging_rewind"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

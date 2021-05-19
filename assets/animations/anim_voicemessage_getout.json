@@ -1,0 +1,97 @@
+{
+  clips: [
+    {
+      Name: "anim_message_getout_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 66,
+            height_mm: 38
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 66,
+            height_mm: 41
+          },
+          {
+            triggerTime_ms: 132,
+            durationTime_ms: 66,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: 29
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 132,
+            angle_deg: 26
+          },
+          {
+            triggerTime_ms: 231,
+            durationTime_ms: 99,
+            angle_deg: 14
+          },
+          {
+            triggerTime_ms: 330,
+            durationTime_ms: 231,
+            angle_deg: 26
+          },
+          {
+            triggerTime_ms: 561,
+            durationTime_ms: 198,
+            angle_deg: 30
+          }
+        ],
+        RobotAudioKeyFrame: [
+
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 792,
+            Front: [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_messaging_getout"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

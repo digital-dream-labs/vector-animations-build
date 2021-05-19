@@ -1,0 +1,205 @@
+{
+  clips: [
+    {
+      Name: "anim_lookatdevice_icon_end",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            triggerTime_ms: 132,
+            durationTime_ms: 165,
+            height_mm: 40
+          },
+          {
+            triggerTime_ms: 297,
+            durationTime_ms: 99,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            triggerTime_ms: 132,
+            faceCenterY: 25.519384,
+            faceScaleX: 1.294061,
+            faceScaleY: 0.115118,
+            leftEye: [
+              8.107327,
+              0.0,
+              1.598947,
+              1.145309,
+              0.0,
+              0.102739,
+              0.161142,
+              0.169646,
+              0.187978,
+              0.302464,
+              0.389641,
+              0.146284,
+              0.204971,
+              0.063903,
+              -0.79706,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.5,
+              0.0,
+              0.0,
+              0.0
+            ],
+            rightEye: [
+              -9.49862,
+              1.021953,
+              2.281455,
+              1.205068,
+              0.0,
+              0.102739,
+              0.161142,
+              0.169646,
+              0.187978,
+              0.338784,
+              0.430553,
+              0.146284,
+              0.204971,
+              0.086356,
+              -8.047465,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.5,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 33,
+            angle_deg: 34
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 66,
+            angle_deg: 41
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 99,
+            angle_deg: 24
+          },
+          {
+            triggerTime_ms: 363,
+            durationTime_ms: 66,
+            angle_deg: 19
+          },
+          {
+            triggerTime_ms: 429,
+            durationTime_ms: 33,
+            angle_deg: 20
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 198,
+            eventGroups: [
+              {
+                eventIds: [
+                  2479504035
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 231,
+            eventGroups: [
+              {
+                eventIds: [
+                  2687281750
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 132,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 132,
+            durationTime_ms: 330,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_lookatdevice_end"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

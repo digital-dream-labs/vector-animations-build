@@ -1,0 +1,216 @@
+{
+  clips: [
+    {
+      Name: "anim_snowglobe_loop_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 165,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 99,
+            angle_deg: 3
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 297,
+            durationTime_ms: 99,
+            angle_deg: 3
+          },
+          {
+            triggerTime_ms: 396,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 495,
+            durationTime_ms: 99,
+            angle_deg: 3
+          },
+          {
+            triggerTime_ms: 594,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 693,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 792,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 891,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 990,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 1089,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 1188,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 1287,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 1386,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 1485,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 1584,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 1683,
+            durationTime_ms: 99,
+            angle_deg: 4
+          },
+          {
+            triggerTime_ms: 1782,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 1881,
+            durationTime_ms: 99,
+            angle_deg: 3
+          },
+          {
+            triggerTime_ms: 1980,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 2079,
+            durationTime_ms: 99,
+            angle_deg: 3
+          },
+          {
+            triggerTime_ms: 2178,
+            durationTime_ms: 99,
+            angle_deg: -3
+          },
+          {
+            triggerTime_ms: 2277,
+            durationTime_ms: 99,
+            angle_deg: 1
+          },
+          {
+            triggerTime_ms: 2376,
+            durationTime_ms: 33
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            eventGroups: [
+              {
+                eventIds: [
+                  3179862666
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          },
+          {
+            triggerTime_ms: 33,
+            eventGroups: [
+              {
+                eventIds: [
+                  711426914
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 2409,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+          {
+            animName: "face_snowglobe_loop_01"
+          }
+        ],
+        EventKeyFrame: [
+
+        ],
+        BodyMotionKeyFrame: [
+
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}

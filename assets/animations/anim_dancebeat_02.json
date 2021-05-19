@@ -1,0 +1,912 @@
+{
+  clips: [
+    {
+      Name: "anim_dancebeat_scoot_left_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 66,
+            height_mm: 32
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 132,
+            height_mm: 42
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceCenterY: -8.070683,
+            faceScaleX: 1.086444,
+            faceScaleY: 1.085676,
+            leftEye: [
+              8.107327,
+              1.457915,
+              1.517451,
+              1.074984,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 330,
+            faceCenterY: -8.070683,
+            faceScaleX: 1.086444,
+            faceScaleY: 1.085676,
+            leftEye: [
+              8.107327,
+              1.457915,
+              1.517451,
+              1.074984,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: 31
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            angle_deg: 35
+          },
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            angle_deg: 7
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 66,
+            angle_deg: 9
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            eventGroups: [
+              {
+                eventIds: [
+                  992178953
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 330,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+          {
+            triggerTime_ms: 264,
+            event_id: "DANCE_BEAT_SYNC"
+          }
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            radius_mm: "-23",
+            speed: -144
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_dancebeat_scoot_right_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 66,
+            height_mm: 32
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 132,
+            height_mm: 42
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceCenterY: -8.070683,
+            faceScaleX: 1.086444,
+            faceScaleY: 1.085676,
+            leftEye: [
+              8.107327,
+              1.457915,
+              1.517451,
+              1.074984,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 330,
+            faceCenterY: -8.070683,
+            faceScaleX: 1.086444,
+            faceScaleY: 1.085676,
+            leftEye: [
+              8.107327,
+              1.457915,
+              1.517451,
+              1.074984,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: 31
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            angle_deg: 35
+          },
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            angle_deg: 7
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 66,
+            angle_deg: 9
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            eventGroups: [
+              {
+                eventIds: [
+                  992178953
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 330,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+          {
+            triggerTime_ms: 264,
+            event_id: "DANCE_BEAT_SYNC"
+          }
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            radius_mm: "23",
+            speed: -144
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_dancebeat_pivot_left_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 66,
+            height_mm: 32
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 132,
+            height_mm: 42
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceCenterY: -8.070683,
+            faceScaleX: 1.086444,
+            faceScaleY: 1.085676,
+            leftEye: [
+              8.107327,
+              1.457915,
+              1.517451,
+              1.074984,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 330,
+            faceCenterY: -8.070683,
+            faceScaleX: 1.086444,
+            faceScaleY: 1.085676,
+            leftEye: [
+              8.107327,
+              1.457915,
+              1.517451,
+              1.074984,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: 31
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            angle_deg: 35
+          },
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            angle_deg: 7
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 66,
+            angle_deg: 9
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            eventGroups: [
+              {
+                eventIds: [
+                  992178953
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 330,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+          {
+            triggerTime_ms: 264,
+            event_id: "DANCE_BEAT_SYNC"
+          }
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            radius_mm: "-23",
+            speed: 144
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    },
+    {
+      Name: "anim_dancebeat_pivot_right_01",
+      keyframes: {
+        LiftHeightKeyFrame: [
+          {
+            durationTime_ms: 66,
+            height_mm: 32
+          },
+          {
+            triggerTime_ms: 66,
+            durationTime_ms: 132,
+            height_mm: 42
+          },
+          {
+            triggerTime_ms: 198,
+            durationTime_ms: 99,
+            height_mm: 32
+          }
+        ],
+        ProceduralFaceKeyFrame: [
+          {
+            faceCenterY: -8.070683,
+            faceScaleX: 1.086444,
+            faceScaleY: 1.085676,
+            leftEye: [
+              8.107327,
+              1.457915,
+              1.517451,
+              1.074984,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ]
+          },
+          {
+            triggerTime_ms: 330,
+            faceCenterY: -8.070683,
+            faceScaleX: 1.086444,
+            faceScaleY: 1.085676,
+            leftEye: [
+              8.107327,
+              1.457915,
+              1.517451,
+              1.074984,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ],
+            rightEye: [
+              -7.315991,
+              0.0,
+              1.517451,
+              1.144941,
+              0.0,
+              0.6,
+              0.6,
+              0.650478,
+              0.650478,
+              0.693462,
+              0.686174,
+              0.6,
+              0.6,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              -0.053304,
+              0.0
+            ]
+          }
+        ],
+        HeadAngleKeyFrame: [
+          {
+            durationTime_ms: 99,
+            angle_deg: 31
+          },
+          {
+            triggerTime_ms: 99,
+            durationTime_ms: 66,
+            angle_deg: 35
+          },
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            angle_deg: 7
+          },
+          {
+            triggerTime_ms: 264,
+            durationTime_ms: 66,
+            angle_deg: 9
+          }
+        ],
+        RobotAudioKeyFrame: [
+          {
+            triggerTime_ms: 66,
+            eventGroups: [
+              {
+                eventIds: [
+                  992178953
+                ],
+                volumes: [
+                  1.0
+                ],
+                probabilities: [
+                  1.0
+                ]
+              }
+            ]
+          }
+        ],
+        BackpackLightsKeyFrame: [
+          {
+            durationTime_ms: 330,
+            Front: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Middle: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            Back: [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        FaceAnimationKeyFrame: [
+
+        ],
+        EventKeyFrame: [
+          {
+            triggerTime_ms: 264,
+            event_id: "DANCE_BEAT_SYNC"
+          }
+        ],
+        BodyMotionKeyFrame: [
+          {
+            triggerTime_ms: 165,
+            durationTime_ms: 99,
+            radius_mm: "23",
+            speed: 144
+          }
+        ],
+        RecordHeadingKeyFrame: [
+
+        ],
+        TurnToRecordedHeadingKeyFrame: [
+
+        ]
+      }
+    }
+  ]
+}
