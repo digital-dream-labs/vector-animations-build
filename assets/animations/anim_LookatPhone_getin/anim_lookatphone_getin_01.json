@@ -1,0 +1,83 @@
+{
+  "anim_lookatphone_getin_01": [
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -22,
+      "triggerTime_ms": 33,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 33
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 45,
+      "triggerTime_ms": 66,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 594
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Short_Curious"
+          ],
+          "eventIds": [
+            1393504716
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 132,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Stop__Robot_Vic_Sfx__Head_Mood"
+          ],
+          "eventIds": [
+            3271727348
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 264,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Attention_Device_Phone"
+          ],
+          "eventIds": [
+            3705436708
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 363,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "animName": "face_lookatphone_getin",
+      "triggerTime_ms": 0,
+      "Name": "FaceAnimationKeyFrame"
+    }
+  ]
+}

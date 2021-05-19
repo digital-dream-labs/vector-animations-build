@@ -1,0 +1,150 @@
+{
+  "anim_blackjack_deal_01": [
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 45,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 31,
+      "triggerTime_ms": 198,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 39,
+      "triggerTime_ms": 264,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 33
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 2.2677516982316792e-10,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 2.2677516982316792e-10,
+      "leftEye": [
+        8.107326060759803,
+        0.0,
+        1.5174507300664741,
+        1.1453089027930028,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        1.5174507300664741,
+        1.144941064931666,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "triggerTime_ms": 0
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Blackjack_Deal"
+          ],
+          "eventIds": [
+            3691452503
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 132,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "event_id": "DEAL_CARDS_BEGIN",
+      "triggerTime_ms": 264,
+      "Name": "EventKeyFrame"
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 462,
+      "Back": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 0,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "anim_timerleft_getin_01": [
+    {
+      "durationTime_ms": 66,
+      "triggerTime_ms": 528,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 39
+    },
+    {
+      "durationTime_ms": 132,
+      "triggerTime_ms": 594,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 0,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 99
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -6,
+      "triggerTime_ms": 99,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -3,
+      "triggerTime_ms": 165,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 198
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -15,
+      "triggerTime_ms": 528,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 165
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 33,
+      "triggerTime_ms": 693,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 132
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 30,
+      "triggerTime_ms": 825,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 132
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            0.5,
+            0.5
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Head_Up_Short_Curious",
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
+          ],
+          "eventIds": [
+            1393504716,
+            2558890771
+          ],
+          "volumes": [
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 99,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Timer_Set"
+          ],
+          "eventIds": [
+            2198114280
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 693,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "animName": "face_timerleft_getin_01",
+      "triggerTime_ms": 0,
+      "Name": "FaceAnimationKeyFrame"
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 4,
+      "triggerTime_ms": 99,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": 1
+    },
+    {
+      "durationTime_ms": 99,
+      "speed": -6,
+      "triggerTime_ms": 561,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": 1
+    },
+    {
+      "durationTime_ms": 132,
+      "speed": 72,
+      "triggerTime_ms": 660,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "TURN_IN_PLACE"
+    }
+  ]
+}
