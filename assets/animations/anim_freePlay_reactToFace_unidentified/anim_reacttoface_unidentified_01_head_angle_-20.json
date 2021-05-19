@@ -3037,10 +3037,10 @@
             1.0
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Scrn_Curious"
+            "Play__Robot_Vic_Sfx__Head_Up_Micro_Curious"
           ],
           "eventIds": [
-            2558890771
+            4157094450
           ],
           "volumes": [
             1.0
@@ -3057,17 +3057,37 @@
             0.5
           ],
           "audioName": [
-            "Play__Robot_Vic_Sfx__Head_Down_Micro_Curious"
+            "Play__Robot_Vic_Sfx__Emote_Curious_Long"
           ],
           "eventIds": [
-            16087513
+            168487306
           ],
           "volumes": [
             1.0
           ]
         }
       ],
-      "triggerTime_ms": 1287,
+      "triggerTime_ms": 1122,
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "eventGroups": [
+        {
+          "probabilities": [
+            1.0
+          ],
+          "audioName": [
+            "Play__Robot_Vic_Sfx__Scrn_Curious"
+          ],
+          "eventIds": [
+            2558890771
+          ],
+          "volumes": [
+            1.0
+          ]
+        }
+      ],
+      "triggerTime_ms": 2277,
       "Name": "RobotAudioKeyFrame"
     },
     {
@@ -3656,20 +3676,6 @@
       "triggerTime_ms": 3003,
       "Name": "BodyMotionKeyFrame",
       "radius_mm": "STRAIGHT"
-    },
-    {
-      "durationTime_ms": 825,
-      "speed": 0,
-      "triggerTime_ms": 3465,
-      "Name": "BodyMotionKeyFrame",
-      "radius_mm": 23
-    },
-    {
-      "durationTime_ms": 231,
-      "speed": 7,
-      "triggerTime_ms": 4290,
-      "Name": "BodyMotionKeyFrame",
-      "radius_mm": -2
     }
   ]
 }
