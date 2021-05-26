@@ -169,4 +169,4 @@ Once we have backed up the animations on the robot (if something goes wrong here
 * Example (Mac/Linux):
 ```scp -r -i /home/robbie/Downloads/id_rsa_Vector-F7V3 /home/robbie/Documents/GitHub/DDL/vector-animations/_built_assets/* root@192.168.50.20:/anki/data/assets/cozmo_resources/assets```
 
-Once all of the animation files have been transferred over, you will to reboot Vector! Either SSH into your Vector and issue the command ```sudo reboot``` or you can hold his back button for 5 seconds to turn him off. Wait for his screen to go black, then tap the back button again once to boot him back up. 
+Once all of the animation files have been transferred over, you will need to reboot Vector! Either SSH into your Vector and issue the command ```sudo reboot``` or you can hold his back button for 5 seconds to turn him off. Wait for his screen to go black, then tap the back button again once to boot him back up. 
