@@ -41,6 +41,6 @@ Note: if Duration Ms is set to 0, that’s being handled as a human error, and t
 
 Below is an example with a peekaboo animation, the first one without the correction turn and the second one with one.
 
-![peekaboo noAdjustment](images/peekaboo_noAdjustment.mov)
+[peekaboo noAdjustment](images/peekaboo_noAdjustment.mov)
 
-![peekaboo adjusted](images/peekaboo_adjusted.mov)
+[peekaboo adjusted](images/peekaboo_adjusted.mov)
