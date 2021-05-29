@@ -1,5 +1,5 @@
 # vector-animations
-Raw animation assets and tools to modify existing animations or build new eye animations, weather animations, and more for the Vector Robot! All assets from firmware release 1.0.0 to 1.7.0 are in the [Releases](https://github.com/digital-dream-labs/vector-animations/releases) section (just download the zip file and unpack into the /assets directory to use.)
+Raw animation assets and tools to modify existing animations or build new eye animations, weather animations, and more for the Vector Robot! All assets from firmware release 1.0.0 to 1.7.0 are in the [Releases](https://github.com/digital-dream-labs/vector-animations-build/releases) section (just download the zip file and unpack into the /assets directory to use.)
 
 ## Requirements:
 * OSKR Unlocked Vector Robot 
