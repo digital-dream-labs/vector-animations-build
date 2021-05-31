@@ -22,12 +22,12 @@ SSH:
 ### Clone
 * Clone this repository:
 ```
-git clone https://github.com/digital-dream-labs/vector-animations
+git clone https://github.com/digital-dream-labs/vector-animations-build
 ```
 ### Run
 * Shift to the project directory:
 ```
-cd vector-animations/
+cd vector-animations-build/
 ```
 - To build the assets that can be copied onto Vector, run the python script called `scripts/buildScripts/animation_assets.py`
 - Here's a list of arguments that can be used:
